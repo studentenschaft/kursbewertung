@@ -1,12 +1,10 @@
 const express = require('express');
-const morgan = require('morgan')
+import morgan from 'morgan'
 
 const app = express()
-const port = 3000
-
+const port = 4000
 
 app.use(morgan('tiny'))
-
 
 app.get('/', function(req, res) {
   console.log('message in backend')
@@ -18,12 +16,6 @@ app.get('/bla', function(req, res) {
   res.send('chicken')
 })
 
-function serverStart() {
+app.listen(port, function serverStart() {
   console.log('Server ready on ' + port);
-}
-
-
-
-
-
-app.listen(port, serverStart)
+})
