@@ -1,21 +1,24 @@
-const express = require('express');
-import morgan from 'morgan'
+require('dotenv').config()
 
-const app = express()
+import express from 'express'
+import morgan from 'morgan'
+import mongoose from 'mongoose'
+
+import router from './router/index.js'
+
 const port = 4000
 
+const app = express()
+
 app.use(morgan('tiny'))
+app.use('/', router)
 
-app.get('/', function(req, res) {
-  console.log('message in backend')
-  res.send('message for frontend')
-})
+async function start() {
+  await mongoose.connect('mongodb://localhost:27017/kursbewertungen', {useNewUrlParser: true})
 
-app.get('/bla', function(req, res) {
-  console.log('message in backend')
-  res.send('chicken')
-})
+  app.listen(port, function serverStart() {
+    console.log('Server ready on ' + port);
+  })
+}
 
-app.listen(port, function serverStart() {
-  console.log('Server ready on ' + port);
-})
+start()
