@@ -1,6 +1,6 @@
 import express from 'express'
-import morgan from 'morgan'
 import requestify from 'requestify'
+import Course from '../model/Course'
 const router = express.Router()
 
 // TO REFACTOR L8R
@@ -15,27 +15,50 @@ async function queryHSGAPI(secTok, appId, semId){
       semId
 
   try {
-    return await requestify.get(courseQueryUrl).getBody()
+    const response =  await requestify.get(courseQueryUrl)
+    return response.getBody()
   } catch (error) {
+    console.log(error)
     return "There was an error, please contact the administrator"
   }
 }
 
-router.get('/wiealtbistdu', function(request, response) {
-  response.send('hello from Router')
-})
+function buildCourseObj(course) {
+  // Would later assume that course an element of Items[x].Courses
+  // for now set Primary Course to first element
+  const primCourse = course.Courses[0]
+  return {
+    courseNumber: primCourse.CourseNumber,
+    language: primCourse.Language,
+    name: primCourse.ShortName,
+    hsgId: primCourse.Id,
+    description: course.CourseContent
+  }
+}
 
-router.post('/', function(req, res) {
+function saveCourse(courses){
+  courses.forEach((course) => {
+    let courseObj = new Course(course)
+    courseObj.save()
+  })
+}
 
-})
-
-router.get('/evelin', (req, res) => res.send('eveline'))
+function parseCourses(courseData){
+  const courses = courseData.Data.Items
+    .map((course) => buildCourseObj(course))
+  return courses
+}
 
 router.get('/dash', async (req, res) => {
-  let secTok = process.env.SEC_TOK
-  let appId = process.env.APP_ID
-  let semId = process.env.SEM_ID
-  res.send(await queryHSGAPI(secTok, appId, semId))
+  const secTok = process.env.SEC_TOK
+  const appId = process.env.APP_ID
+  const semId = process.env.SEM_ID
+  const courseData = await queryHSGAPI(secTok, appId, semId)
+
+  const courses = parseCourses(courseData)
+  saveCourse(courses)
+  // associateWithStudent()
+  res.send(courses)
 })
 
 router.get('/*', (req, res) => res.send('not very specific'))
