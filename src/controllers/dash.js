@@ -6,7 +6,7 @@ import Student from '../model/Student'
 async function queryHSGAPI(secTok, appId, semId) {
     // build query URL
     var courseQueryUrl =
-        'https://tools.unisg.ch/Api/V20120101/CourseInformation/GetLatestPublishedForStudentBySecurityToken?securityToken=' +
+        process.env.API_URL +
         secTok +
         '&applicationId=' +
         appId +
