@@ -2,6 +2,7 @@ import express from 'express'
 import requestify from 'requestify'
 
 import Course from '../model/Course'
+import Student from '../model/Student'
 
 const router = express.Router()
 
@@ -38,12 +39,14 @@ function buildCourseObj(course) {
   }
 }
 
+
 async function saveCourse(courses){
   const courseIds = courses.map(item => item.hsgId)
   let existingCourses = await Course
     .find({hsgId: {$in: courseIds}}, 'hsgId')
     .lean()
     .exec()
+    
   existingCourses = existingCourses.map(item => item.hsgId)
   
   const newCourses = courses.filter(item => !existingCourses.includes(item.hsgId))
@@ -53,23 +56,52 @@ async function saveCourse(courses){
   )
 }
 
+async function saveStudent(email){
+  await Student.findOne({email: email}, async (err, res) => {
+    if(err){console.log(err)}
+    if(!res){
+        const student = await Student.create({email: email})
+        return student
+    }
+    return res
+  })
+}
+
+async function associateWithStudent(courses, email){
+  const courseIds = courses.map(item => item.hsgId)
+  let existingCourses = await Course
+    .find({hsgId: {$in: courseIds}}, 'hsgId')
+    .lean()
+    .exec()
+  
+  existingCourses = existingCourses.map(item => item._id)
+  console.log(existingCourses)
+  
+  await Student.updateOne({email: email}, {$set: {courseList: existingCourses}})
+}
+
 function parseCourses(courseData){
   const courses = courseData.Data.Items
     .map((course) => buildCourseObj(course))
   return courses
 }
 
-router.get('/dash', async (req, res) => {
+router.get('/dash', dashController)
+
+
+async function dashController (req, res) {
   const secTok = process.env.SEC_TOK
   const appId = process.env.APP_ID
   const semId = process.env.SEM_ID
+  const email = process.env.EMAIL
   const courseData = await queryHSGAPI(secTok, appId, semId)
 
   const courses = parseCourses(courseData)
-  saveCourse(courses)
-  // associateWithStudent()
+  await saveCourse(courses)
+  await saveStudent(email)
+  await associateWithStudent(courses, email)
   res.send(courses)
-})
+}
 
 router.get('/*', (req, res) => res.send('not very specific'))
 
