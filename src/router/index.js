@@ -44,8 +44,8 @@ async function saveCourse(courses){
     .find({hsgId: {$in: courseIds}}, 'hsgId')
     .lean()
     .exec()
-  existingCourses = existingCourses.map(item =>  item.hsgId)
-  console.log(existingCourses)
+  existingCourses = existingCourses.map(item => item.hsgId)
+  
   const newCourses = courses.filter(item => !existingCourses.includes(item.hsgId))
 
   return await Promise.all(
