@@ -6,7 +6,6 @@ const router = express.Router()
 // TO REFACTOR L8R
 async function queryHSGAPI(secTok, appId, semId){
   // build query URL
-  console.log(secTok)
   var courseQueryUrl =
       'https://tools.unisg.ch/Api/V20120101/CourseInformation/GetLatestPublishedForStudentBySecurityToken?securityToken=' +
       secTok +
@@ -15,14 +14,11 @@ async function queryHSGAPI(secTok, appId, semId){
       '&semesterId=' +
       semId
 
-  try {
+      try {
     return await requestify.get(courseQueryUrl).getBody()
   } catch (error) {
     return "There was an error, please contact the administrator"
   }
-
-
-
 }
 
 router.get('/wiealtbistdu', function(request, response) {
