@@ -40,14 +40,15 @@ function buildCourseObj(course) {
 
 async function saveCourse(courses){
   const courseIds = courses.map(item => item.hsgId)
-  const existingCourses = Course
+  let existingCourses = await Course
     .find({hsgId: {$in: courseIds}}, 'hsgId')
-    .exec()
     .lean()
-  
-  const newCourses = courses.filter(item => !existingCourses.include(hsgId))
+    .exec()
+  existingCourses = existingCourses.map(item =>  item.hsgId)
+  console.log(existingCourses)
+  const newCourses = courses.filter(item => !existingCourses.includes(item.hsgId))
 
-  await Promise.all(
+  return await Promise.all(
     newCourses.map((course) => Course.create(course))
   )
 }
