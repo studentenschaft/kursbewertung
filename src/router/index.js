@@ -14,7 +14,7 @@ async function queryHSGAPI(secTok, appId, semId){
       '&semesterId=' +
       semId
 
-      try {
+  try {
     return await requestify.get(courseQueryUrl).getBody()
   } catch (error) {
     return "There was an error, please contact the administrator"
