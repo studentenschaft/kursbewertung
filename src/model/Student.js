@@ -5,7 +5,10 @@ const studentSchema = new mongoose.Schema({
     type: String,
     required: true
   },
-  courseList: []
+  courseList: [{
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'course'
+  }]
 })
 
 export default mongoose.model('student', studentSchema)

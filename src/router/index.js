@@ -1,8 +1,9 @@
 import express from 'express'
 const router = express.Router()
 
-router.get('/', function(req, res) {
-  res.send('hello from Router')
+router.get('/wiealtbistdu', function(request, response) {
+
+  response.send('hello from Router')
 })
 
 router.post('/', function(req, res) {
