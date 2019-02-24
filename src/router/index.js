@@ -1,6 +1,8 @@
 import express from 'express'
 import requestify from 'requestify'
+
 import Course from '../model/Course'
+
 const router = express.Router()
 
 // TO REFACTOR L8R
@@ -36,11 +38,18 @@ function buildCourseObj(course) {
   }
 }
 
-function saveCourse(courses){
-  courses.forEach((course) => {
-    let courseObj = new Course(course)
-    courseObj.save()
-  })
+async function saveCourse(courses){
+  const courseIds = courses.map(item => item.hsgId)
+  const existingCourses = Course
+    .find({hsgId: {$in: courseIds}}, 'hsgId')
+    .exec()
+    .lean()
+  
+  const newCourses = courses.filter(item => !existingCourses.include(hsgId))
+
+  await Promise.all(
+    newCourses.map((course) => Course.create(course))
+  )
 }
 
 function parseCourses(courseData){
