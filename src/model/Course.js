@@ -1,27 +1,31 @@
-import mongoose = from 'mongoose'
+import mongoose from 'mongoose'
 
 const courseSchema = new  mongoose.Schema({
   name: {
     type: String,
     required: true
   },
-  courseID: {
+  courseNumber: {
+    type: String,
+    required: true,
+  },
+  hsgId: {
     type: String,
     required: true
   },
-  professors: [{
-    type: mongoose.Schema.Types.ObjectId,
-    ref: 'professor'
-  }],
-  semesterID: {
+  language: {
     type: String,
-    required: true
+    required: false,
+  },
+  semesterId: {
+    type: String,
+    required: false
   },
   semesterShortcode: {
     type: String,
-    required: true
+    required: false
   },
-  courseDescription: {
+  description: {
     type: String,
     required: false
   },
@@ -32,6 +36,10 @@ const courseSchema = new  mongoose.Schema({
   reviews: [{
     type: mongoose.Schema.Types.ObjectId,
     ref: 'review'
+  }],
+  lecturers: [{
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'lecturer'
   }],
 })
 

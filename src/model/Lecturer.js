@@ -1,6 +1,10 @@
 import mongoose from 'mongoose'
 
-const professorSchema = new mongoose.Schema({
+const lecturerSchema = new mongoose.Schema({
+  hsgEntityId: {
+    type: String,
+    required: true
+  },
   name: {
     type: String,
     required: true
@@ -15,4 +19,4 @@ const professorSchema = new mongoose.Schema({
   }
 })
 
-export default mongoose.model('professor', professorSchema)
+export default mongoose.model('lecturer', professorSchema)
