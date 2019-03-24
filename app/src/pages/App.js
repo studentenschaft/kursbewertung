@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
+import ViewRating from './ViewRating'
 
 class App extends Component {
   render() {
@@ -10,6 +11,7 @@ class App extends Component {
             <p> Hello World </p>
             </div>
         </div>
+        <ViewRating />
       </div>
     );
   }
