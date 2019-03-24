@@ -15,20 +15,22 @@ class ViewRating extends Component {
   }
 
   render() {
-
     return (
       <div className="row">
-        <div className="row">
-          <StarRatingComponent
-            name="rate1"
-            starCount={6}
-            value={this.state.rating}
-            onStarClick={this.onStarClick}
-          />
+        <div className="row col-6 quick-stats">
+          <div className="col-4 star-label">Quality</div>
+          <div className="col-8 stars text-left">
+            <StarRatingComponent
+              name="rate1"
+              starCount={6}
+              value={this.state.rating}
+              onStarClick={this.onStarClick}
+            />
+          </div>
         </div>
       </div>
     )
   }
 }
 
-export default ViewRating;
+export default ViewRating
