@@ -35,7 +35,6 @@ function buildCourseObj(course) {
     }
 }
 
-
 async function saveCourse(courses) {
     const courseIds = courses.map(item => item.hsgId)
     let existingCourses = await Course
@@ -48,18 +47,16 @@ async function saveCourse(courses) {
     const newCourses = courses.filter(item => !existingCourses.includes(item.hsgId))
 
     return await Promise.all(
-        newCourses.map((course) => Course.create(course))
+        newCourses.map((course) => {
+            return Course.create(course);
+        })
     )
 }
 
 async function saveStudent(email) {
     await Student.findOne({ email: email }, async (err, res) => {
         if (err) { throw new Error(error) }
-        if (!res) {
-            const student = await Student.create({ email: email })
-            return student
-        }
-        return res
+        if (!res) { await Student.create({ email: email }) }
     })
 }
 
@@ -71,7 +68,6 @@ async function associateWithStudent(courses, email) {
         .exec()
 
     existingCourses = existingCourses.map(item => item._id)
-    console.log(existingCourses)
 
     await Student.updateOne({ email: email }, { $set: { courseList: existingCourses } })
 }
@@ -87,6 +83,7 @@ async function dashController(req, res) {
     const appId = process.env.APP_ID
     const semId = process.env.SEM_ID
     const email = process.env.EMAIL
+
     const courseData = await queryHSGAPI(secTok, appId, semId)
 
     const courses = parseCourses(courseData)
