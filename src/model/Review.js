@@ -2,7 +2,8 @@ import mongoose from 'mongoose'
 
 const reviewSchema = new mongoose.Schema({
   course: {
-    type: mongoose.Schema.Types.ObjectId,
+    // type: mongoose.Schema.Types.ObjectId,
+    type: String,
     require: true
   },
   rating: {
@@ -10,25 +11,31 @@ const reviewSchema = new mongoose.Schema({
       type: Number,
       require: false,
       min: 1,
-      max: 5
+      max: 6
     },
     workload: {
       type: Number,
       require: false,
       min: 1,
-      max: 5
+      max: 6
     },
     fairGrades: {
       type: Number,
       require: false,
       min: 1,
-      max: 5
+      max: 6
     },
     expectationsMet: {
       type: Number,
       require: false,
       min: 1,
-      max: 5
+      max: 6
+    },
+    professor: {
+      type: Number,
+      require: false,
+      min: 1,
+      max: 6
     },
   },
   feedback: {
@@ -54,7 +61,7 @@ const reviewSchema = new mongoose.Schema({
         type: Number,
         require: false,
         min: 1,
-        max: 5
+        max: 6
       },
       feedback: {
         type: String,
@@ -64,4 +71,4 @@ const reviewSchema = new mongoose.Schema({
   ]
 })
 
-export default mongoose.model('review', studentSchema)
+export default mongoose.model('review', reviewSchema)
