@@ -78,6 +78,8 @@ function parseCourses(courseData) {
     return courses
 }
 
+
+//********* MAIN **************************
 async function dashController(req, res) {
     const secTok = process.env.SEC_TOK
     const appId = process.env.APP_ID
@@ -94,4 +96,4 @@ async function dashController(req, res) {
 }
 
 
-export default dashController  
+export default dashController

@@ -1,0 +1,2666 @@
+{
+  "ContentEncoding": null,
+  "ContentType": null,
+  "Data": {
+    "Items": [
+      {
+        "AchievementContent": "Wortschatz und Grammatikthemen der Lektionen 4-7, 9-10 des\r\nLehrbuches \"Mittelpunkt neu B2\"",
+        "AchievementLiterature": "Mittelpunkt neu&nbsp;B2, Albert Daniels u.a., Klett Verlag\r\nStuttgart 2012. Arbeitsbl&auml;tter aus dem dazu geh&ouml;renden\r\nArbeitsbuch auf studynet, werden hinzugef&uuml;gt bis 16.5.2019",
+        "AchievementParts": [
+          {
+            "AchievementAid": {
+              "IsAllowed": true,
+              "IsRequired": true,
+              "Description": "<ul><li>Nur die im &quot;Hilfsmittelzusatz&quot; abschliessend aufgeführten Hilfsmittel und Wörterbücher (ohne Handnotizen) sind zugelassen.</li><li>Nicht erlaubt sind jegliche Art von Kommunikation sowie sämtliche programmierbaren und kommunikationsfähigen elektronischen Geräte wie Notebooks, Tablets, PDAs, Mobiltelefone und weitere. </li><li>Die Beschaffung der Hilfsmittel ist ausschliesslich Sache der Studierenden.</li></ul>",
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "Sprachprüfungen",
+              "Id": 5,
+              "State": 0
+            },
+            "AchievementForm": {
+              "IsCentral": false,
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "schriftliche Sprachprüfung",
+              "Id": 43,
+              "State": 0
+            },
+            "AchievementPartKeyId": 18557,
+            "AdditionalAid": "Keine",
+            "AnswerLanguages": [
+              {
+                "Code": "DE",
+                "IsRequestedLanguage": true,
+                "Language": "de",
+                "ShortName": "Deutsch",
+                "Id": 1,
+                "State": 0
+              }
+            ],
+            "Duration": "120 Min.",
+            "QuestionLanguages": [
+              {
+                "Code": "DE",
+                "IsRequestedLanguage": true,
+                "Language": "de",
+                "ShortName": "Deutsch",
+                "Id": 1,
+                "State": 0
+              }
+            ],
+            "Remark": null,
+            "SortOrder": 0,
+            "Weightage": 5000,
+            "Id": "27bcdc75-eb66-42ba-a3fc-c01b01f93e7c",
+            "State": 0
+          },
+          {
+            "AchievementAid": {
+              "IsAllowed": true,
+              "IsRequired": true,
+              "Description": "<ul><li>Nur die im &quot;Hilfsmittelzusatz&quot; abschliessend aufgeführten Hilfsmittel und Wörterbücher (ohne Handnotizen) sind zugelassen.</li><li>Nicht erlaubt sind jegliche Art von Kommunikation sowie sämtliche programmierbaren und kommunikationsfähigen elektronischen Geräte wie Notebooks, Tablets, PDAs, Mobiltelefone und weitere. </li><li>Die Beschaffung der Hilfsmittel ist ausschliesslich Sache der Studierenden.</li></ul>",
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "Sprachprüfungen",
+              "Id": 5,
+              "State": 0
+            },
+            "AchievementForm": {
+              "IsCentral": false,
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "mündliche Sprachprüfung (einzeln in Gruppen - individuelle Benotung)",
+              "Id": 45,
+              "State": 0
+            },
+            "AchievementPartKeyId": 18558,
+            "AdditionalAid": "Keine",
+            "AnswerLanguages": [
+              {
+                "Code": "DE",
+                "IsRequestedLanguage": true,
+                "Language": "de",
+                "ShortName": "Deutsch",
+                "Id": 1,
+                "State": 0
+              }
+            ],
+            "Duration": "mind. 15 Min.",
+            "QuestionLanguages": [
+              {
+                "Code": "DE",
+                "IsRequestedLanguage": true,
+                "Language": "de",
+                "ShortName": "Deutsch",
+                "Id": 1,
+                "State": 0
+              }
+            ],
+            "Remark": null,
+            "SortOrder": 0,
+            "Weightage": 5000,
+            "Id": "2692b049-99bc-49f4-b2ca-ed81d9c7d9af",
+            "State": 0
+          }
+        ],
+        "Comment": null,
+        "CourseAdditionalInformation": "<p style=\"color: #333333;\">Dr. Elke Breitenfeldt,\r\nGermanistik-Studium in T&uuml;bingen und G&ouml;ttingen,\r\nDAAD-Lektorat in Santiago de Chile, 2009 Promotion im Fachbereich\r\n\"Deutsch als Fremdsprache\" mit einem kulturwissenschaftlichen\r\nThema: \"Kultur lesen. Literarische Paarkonstellationen als\r\nText\".</p>",
+
+        "CourseContent": "<p>Vertiefung der m&uuml;ndlichen und schriftlichen\r\nSprachkenntnisse auf das Zielniveau B2</p>\r\n\r\n<p>Themen: Die Welt der Dinge; Kooperieren; Arbeit im In- und\r\nAusland; Wissen und K&ouml;nnen; Leistungen</p>",
+
+        "CourseLanguage": {
+          "Code": "DE",
+          "IsRequestedLanguage": true,
+          "Language": "de",
+          "ShortName": "Deutsch",
+          "Id": 1,
+          "State": 0
+        },
+        "CourseLiterature": "Mittelpunkt neu B2, Albert Daniels u.a., Klett Verlag Stuttgart\r\n2012.",
+        "CoursePrerequisites": "<p style=\"color: #333333;\"><span class=\"unisg.cis.ciswp\" style=\"width: 950px; display: inline-block;\">Niveau: B1</span><span style=\"color: #333333;\">Der Sprachenraster gem&auml;ss dem\r\nEurop&auml;ischen Referenzrahmen f&uuml;r Sprachen unter</span> <a href=\"https://europass.cedefop.europa.eu/de/resources/european-language-levels-cefr\" tabindex=\"-1\" style=\"color: #333333;\" target=\"_blank\"><span style=\"color: #333333;\">https://europass.cedefop.europa.eu/de/resources/european-language-levels-cefr</span></a>\r\n<span style=\"color: #333333;\">hilft Ihnen, falls Sie Ihr\r\nSprachkenntnisse einsch&auml;tzen wollen.</span></p>",
+        "CourseStructure": "Zwei Mal 90 Minuten w&ouml;chentlich Pr&auml;senz;\r\nselbstst&auml;ndiges Verfassen schriftlicher Texte: Abgabe und\r\nKorrektur im Verlauf des Semesters \r\n\r\n<p>Das Kontextstudium ist der Form nach\r\n<strong>Kontaktstudium</strong>; zum ordnungsgem&auml;ssen Besuch\r\nder Veranstaltung geh&ouml;rt daher die <strong>regelm&auml;ssige\r\nTeilnahme</strong>. Die Studierenden m&uuml;ssen selbst darauf\r\nachten, dass sich Veranstaltungstermine <strong>nicht\r\n&uuml;berschneiden</strong>.</p>",
+        "Courses": [
+          {
+            "CourseLanguage": {
+              "Code": "DE",
+              "IsRequestedLanguage": true,
+              "Language": "de",
+              "ShortName": "Deutsch",
+              "Id": 1,
+              "State": 0
+            },
+            "CourseNumber": "8,980,1.00",
+            "EventSkeletonKeyId": 3833,
+
+            "Lecturers": [
+              {
+                "DisplayName": "Breitenfeldt Elke",
+                "Email": "elke.breitenfeldt@unisg.ch",
+                "FirstName": "Elke",
+                "HsgEntityId": "4460c01c-d7a6-47ba-a2a6-59c809c2a6c0",
+                "HumanTypes": "Angestellter, Dozent",
+                "LastName": "Breitenfeldt",
+                "Prefix": null,
+                "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/4460c01c-d7a6-47ba-a2a6-59c809c2a6c0",
+                "Type": {
+                  "IsRemovable": false,
+                  "IsSelectable": true,
+                  "Description": "Dozent(in)",
+                  "IsRequestedLanguage": false,
+                  "Language": "de",
+                  "ShortName": "Dozent(in)",
+                  "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+                  "State": 0
+                },
+                "Id": "5a0d71d9-423b-4012-9bb8-cb5cc242932e",
+                "State": 0
+              }
+            ],
+            "TimeTableLink": "https://tools.unisg.ch/Url/cs7m4w",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            
+            "ShortName": "Deutsch B2",
+
+            "Id": "f6f9e814-e5cb-4ed0-9c25-b7bcd6da78e5",
+            "State": 0
+          }
+        ],
+        "Credits": 400,
+        "Editors": [
+          {
+            "DisplayName": "Breitenfeldt Elke",
+            "Email": "elke.breitenfeldt@unisg.ch",
+            "FirstName": "Elke",
+            "HsgEntityId": "4460c01c-d7a6-47ba-a2a6-59c809c2a6c0",
+            "HumanTypes": "Angestellter, Dozent",
+            "LastName": "Breitenfeldt",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/4460c01c-d7a6-47ba-a2a6-59c809c2a6c0",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": true,
+              "Description": "Dozent(in)",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "Dozent(in)",
+              "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+              "State": 0
+            },
+            "Id": "5a0d71d9-423b-4012-9bb8-cb5cc242932e",
+            "State": 0
+          },
+          {
+            "DisplayName": "Horstmann Jan-Philipp",
+            "Email": "jan.horstmann@unisg.ch",
+            "FirstName": "Jan-Philipp",
+            "HsgEntityId": "6d5b1555-ed6b-41a4-907d-9c0ea8e96eeb",
+            "HumanTypes": "Angestellter, Dozent, Student",
+            "LastName": "Horstmann",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/6d5b1555-ed6b-41a4-907d-9c0ea8e96eeb",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "d06ec092-46cb-4f5f-adb1-772b1de03a42",
+            "State": 0
+          },
+          {
+            "DisplayName": "Kalkofen Rupert",
+            "Email": "rupert.kalkofen@unisg.ch",
+            "FirstName": "Rupert",
+            "HsgEntityId": "285c9844-6f8b-421d-8943-cf50c2b50896",
+            "HumanTypes": "Angestellter, Dozent",
+            "LastName": "Kalkofen",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/285c9844-6f8b-421d-8943-cf50c2b50896",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "afa63a17-4597-40e8-b016-74bbbe97d48b",
+            "State": 0
+          },
+          {
+            "DisplayName": "Lambrecht Karen",
+            "Email": "karen.lambrecht@unisg.ch",
+            "FirstName": "Karen",
+            "HsgEntityId": "1d1fef19-f67b-4375-8252-ddf2b723e356",
+            "HumanTypes": "Angestellter, Dozent",
+            "LastName": "Lambrecht",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/1d1fef19-f67b-4375-8252-ddf2b723e356",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "ee3eecc4-fc4b-4bdc-ad96-7ac858a0bdd0",
+            "State": 0
+          },
+          {
+            "DisplayName": "Michelmann Judith",
+            "Email": "judith.michelmann@unisg.ch",
+            "FirstName": "Judith",
+            "HsgEntityId": "820245ca-5600-4079-b01e-330ceeb43dc2",
+            "HumanTypes": "Angestellter, Dozent",
+            "LastName": "Michelmann",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/820245ca-5600-4079-b01e-330ceeb43dc2",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "02c43440-1bd0-4147-815c-d8fdf387257b",
+            "State": 0
+          },
+          {
+            "DisplayName": "Partschefeld Yves Bernd",
+            "Email": "yves.partschefeld@unisg.ch",
+            "FirstName": "Yves Bernd",
+            "HsgEntityId": "fc333ca1-74ad-442f-bb5e-77cb42951795",
+            "HumanTypes": "Alumni, Angestellter, Dozent, Student",
+            "LastName": "Partschefeld",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/fc333ca1-74ad-442f-bb5e-77cb42951795",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL",
+              "Id": "be74068e-f0aa-442a-aca4-34e38a639c36",
+              "State": 0
+            },
+            "Id": "1db46e8c-3e8f-4c4f-b507-3c47c48c56dd",
+            "State": 0
+          },
+          {
+            "DisplayName": "Rudolph Sophie",
+            "Email": "sophie.rudolph@unisg.ch",
+            "FirstName": "Sophie",
+            "HsgEntityId": "75a03768-fbac-45f2-b928-4b81ade15a23",
+            "HumanTypes": "Angestellter, Dozent",
+            "LastName": "Rudolph",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/75a03768-fbac-45f2-b928-4b81ade15a23",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "7cf9e7dc-6378-4253-b409-550da2e4c166",
+            "State": 0
+          }
+        ],
+        "LastModification": "2019-01-10T10:20:32.22",
+        "LastModifier": "HPachera",
+        "MajorVersion": 1,
+        "MinorVersion": 0,
+        "PublishedDate": "2019-01-10T10:20:32.19",
+        "SpecialInformation": null,
+        "AchievementFormStatus": {
+          "IsCentral": false,
+          "IsDeCentral": true,
+          "IsRegulated": true,
+          "Description": "Vorgegeben-Dezentral",
+          "IsRequestedLanguage": false,
+          "Language": "de",
+          "ShortName": "V/D",
+          "Id": "32b7e57a-164d-4b6e-9fcc-5e23a9d4a3af",
+          "State": 0
+        },
+        "AchievementResponsible": {
+          "DisplayName": "Breitenfeldt Elke",
+          "Email": "elke.breitenfeldt@unisg.ch",
+          "FirstName": "Elke",
+          "HsgEntityId": "4460c01c-d7a6-47ba-a2a6-59c809c2a6c0",
+          "HumanTypes": "Angestellter, Dozent",
+          "LastName": "Breitenfeldt",
+          "Prefix": null,
+          "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/4460c01c-d7a6-47ba-a2a6-59c809c2a6c0",
+          "Type": {
+            "IsRemovable": false,
+            "IsSelectable": true,
+            "Description": "Dozent(in)",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "Dozent(in)",
+            "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+            "State": 0
+          },
+          "Id": "5a0d71d9-423b-4012-9bb8-cb5cc242932e",
+          "State": 0
+        },
+        "AdministrationLeader": {
+          "DisplayName": "Partschefeld Yves Bernd",
+          "Email": "yves.partschefeld@unisg.ch",
+          "FirstName": "Yves Bernd",
+          "HsgEntityId": "fc333ca1-74ad-442f-bb5e-77cb42951795",
+          "HumanTypes": "Alumni, Angestellter, Dozent, Student",
+          "LastName": "Partschefeld",
+          "Prefix": null,
+          "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/fc333ca1-74ad-442f-bb5e-77cb42951795",
+          "Type": {
+            "IsRemovable": false,
+            "IsSelectable": false,
+            "Description": "ADL",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "ADL",
+            "Id": "be74068e-f0aa-442a-aca4-34e38a639c36",
+            "State": 0
+          },
+          "Id": "1db46e8c-3e8f-4c4f-b507-3c47c48c56dd",
+          "State": 0
+        },
+        "ChangedFields": null,
+        "CourseNumber": "3,804 | 4,804",
+        "CourseResponsible": {
+          "DisplayName": "Breitenfeldt Elke",
+          "Email": "elke.breitenfeldt@unisg.ch",
+          "FirstName": "Elke",
+          "HsgEntityId": "4460c01c-d7a6-47ba-a2a6-59c809c2a6c0",
+          "HumanTypes": "Angestellter, Dozent",
+          "LastName": "Breitenfeldt",
+          "Prefix": null,
+          "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/4460c01c-d7a6-47ba-a2a6-59c809c2a6c0",
+          "Type": {
+            "IsRemovable": false,
+            "IsSelectable": true,
+            "Description": "Dozent(in)",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "Dozent(in)",
+            "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+            "State": 0
+          },
+          "Id": "5a0d71d9-423b-4012-9bb8-cb5cc242932e",
+          "State": 0
+        },
+        "HasPublishedVersion": true,
+        "HsgEntityId": "d8379d99-66f6-4945-8018-0200f4492841",
+        "IsFulfilled": true,
+        "IsNewVersion": false,
+        "PublicationLanguageId": "b5736458-2f85-45c6-9285-8eef12f21ed6",
+        "SemesterId": "3a953bf8-9074-4221-82ae-febbe5edffab",
+        "StudyItemId": 3732,
+        "WorkflowState": 5,
+        "Description": "for German Beginners",
+        "IsRequestedLanguage": true,
+        "Language": "de",
+        "ShortName": "German B2",
+        "Id": "d5881c02-0f92-4e72-ae30-a75e0d71b3de",
+        "State": 0
+      },
+      {
+        "AchievementContent": "<p>Das Vorlesungsskript und die genannte Literatur stellen die\r\nPr&uuml;fungsinhalte dar.</p>",
+        "AchievementLiterature": "<p>Vgl. die angegebene Literatur</p>",
+        "AchievementParts": [
+          {
+            "AchievementAid": {
+              "IsAllowed": true,
+              "IsRequired": false,
+              "Description": "<ul><li>Schriftliche Arbeiten müssen ohne fremde Hilfe nach den bekannten Zitationsstandards verfasst werden und es ist eine Eigenständigkeitserklärung anzubringen.</li><li>Das Dokumentieren (Zitate, Literaturverzeichnisse) hat durchgängig und konsequent nach APA- oder MLA-Standard zu erfolgen. Die Quellenangaben für wörtlich und sinngemäss übernommene Informationen (Zitate) sind entsprechend der Vorgaben des verwendeten Zitationsstandards in den Text zu integrieren, informierende und bibliografische Anmerkungen sind als Fussnoten anzubringen (Empfehlungen und Standards z.B. bei METZGER, C. (2017), Lern- und Arbeitsstrategien (12. Aufl., Cornelsen Schweiz).</li><li>Für alle Arbeiten, welche an der Universität St. Gallen geschrieben werden, ist die Angabe von Seitenzahlen sowohl nach MLA- wie auch nach APA-Standard nie fakultativ.</li><li>Wo in Quellen die Seitenangabe fehlt, muss die präzise Bezeichnung anders erfolgen: Kapitel- oder Abschnittüberschrift, Abschnittsnummer, Akt, Szene, Vers, usw.</li><li>Für juristische Arbeiten wird der juristische Standard empfohlen (vgl. beispielhaft FORSTMOSER, P., OGOREK R. et SCHINDLER B. (2018), Juristisches Arbeiten: Eine Anleitung für Studierende (6. Auflage), Zürich: Schulthess oder beachten Sie die Empfehlungen der Law School).</li></ul>",
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "Schriftliche Arbeiten",
+              "Id": 9,
+              "State": 0
+            },
+            "AchievementForm": {
+              "IsCentral": false,
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "Schriftliche Gruppenarbeit mit Präsentation (Benotung für alle gleich)",
+              "Id": 29,
+              "State": 0
+            },
+            "AchievementPartKeyId": 23439,
+            "AdditionalAid": "<p>keine</p>",
+            "AnswerLanguages": [
+              {
+                "Code": "DE",
+                "IsRequestedLanguage": true,
+                "Language": "de",
+                "ShortName": "Deutsch",
+                "Id": 1,
+                "State": 0
+              }
+            ],
+            "Duration": null,
+            "QuestionLanguages": [
+              {
+                "Code": "DE",
+                "IsRequestedLanguage": true,
+                "Language": "de",
+                "ShortName": "Deutsch",
+                "Id": 1,
+                "State": 0
+              }
+            ],
+            "Remark": null,
+            "SortOrder": 1,
+            "Weightage": 10000,
+            "Id": "b35d048f-2ded-4092-8f57-df445ae82226",
+            "State": 0
+          }
+        ],
+        "Comment": null,
+        "CourseAdditionalInformation": "<p>Ansprechpartner: <a tabindex=\"-1\" href=\"mailto:christoph.mueller@unisg.ch\">christoph.mueller@unisg.ch</a></p>",
+        "CourseContent": "<ul>\r\n<li>Corporate Entrepreneurship handelt von der F&auml;higkeit von\r\netablierten Unternehmen, unternehmerisches Denken und Handeln in\r\nund ausserhalb ihrer Organisationsstruktur umzusetzen. Die\r\nDimensionen dazu lauten: Personen, Organisation, Strategie und\r\nProzesse. Aktuell spielen insbesondere die Kooperations- und\r\nInvestitionsbeziehungen zwischen Grossunternehmen/Konzernen und\r\njungen (gewachsenen) Start-Up's eine wichtige Rolle.&nbsp;Die\r\nAktivit&auml;ten der Unternehmen auf dem Gebiet Corporate\r\nEntrepreneurship&nbsp;sind stark angewachsen: Von eigenen direkten\r\noder indirekten Investitionen in junge Unternehmen\r\n&uuml;ber&nbsp;interne und externe Beschleuniger- und\r\nInkubatoren-Modelle bis hin zu globalen Partnerschaften.</li>\r\n\r\n<li>Die Veranstaltung im FS 2019 sieht neben der Vorlesung vor,\r\ndass sich Teams aus Studierenden bilden, die gemeinsam einen\r\nkonkreten Fall zu Corporate Entrepreneurship aufarbeiten. Die\r\nAuswahl des Falles liegt bei den Teams selbst, geschieht&nbsp;aber\r\nin Absprache mit dem Dozenten, um Dopplungen und Wiederholungen zu\r\nvermeiden.&nbsp;Bitte nehmen Sie als Team deshalb eine Vorauswahl /\r\nAuswahl des Unternehmens und seiner spezifischen Fragestellung vor\r\nund besprechen Sie diese mit dem Dozenten. Anschliessend handeln\r\nSie mit dem Unternehmen ebenfalls das Thema konkret aus.\r\nIdealerweise sollte die Arbeit mit den Unternehmen rasch nach\r\nSemesterbeginn beginnen. Die Unternehmen k&ouml;nnen Schweizer oder\r\ninternationale Grossunternehmen, mittelst&auml;ndische Unternehmen\r\n/ KMU (Start Up's) oder auch soziale / Non-Profit-Institutionen\r\nsein. Da wiederum ein Schwerpunkt auf den Corporate\r\nEntrepreneurship-Aktivit&auml;ten von Weltmarktf&uuml;hrern aus dem\r\nDACH-Raum liegen wird, sind Fallbeispiele hierzu ebenfalls\r\nwillkommen.</li>\r\n\r\n<li>Die Kontaktaufnahme sollte vor Beginn des Semesters erfolgen,\r\num so viel wie m&ouml;glich Zeit f&uuml;r den empirischen Teil der\r\nFallbearbeitung zu haben!&nbsp;</li>\r\n\r\n<li>Als Abschlussarbeit wird die erstellte Seminararbeit mitsamt\r\nPr&auml;sentation gewertet. Die Beurteilungskriterien werden anhand\r\nkonkreter Beispiele in der Vorlesung vorgestellt: Saubere\r\nempirische / kritische Analyse; Anwendung der Corporate\r\nEntrepreneurship - 'Theorie' auf einen konkreten Fall, Entwicklung\r\nund Begr&uuml;ndung von unternehmerischen Weiterentwicklungen,\r\nQualit&auml;t der Abschlussarbeit mit Vortrag und Diskussion sind\r\nzentrale Kriterien.</li>\r\n</ul>",
+        "CourseLanguage": {
+          "Code": "DE",
+          "IsRequestedLanguage": true,
+          "Language": "de",
+          "ShortName": "Deutsch",
+          "Id": 1,
+          "State": 0
+        },
+        "CourseLiterature": "<p>Eine Literaturliste wird im Skript zur Vorlesung\r\nver&ouml;ffentlicht.</p>",
+        "CoursePrerequisites": "<p>Keine besonderen Vorbedingungen</p>",
+        "CourseStructure": "<p>Die Veranstaltung besteht aus drei Teilen. 1. Die Vorlesung an\r\nsich. 2. Individuell zu vereinbarende Besprechungstermine mit dem\r\nDozenten im Laufe der Ausarbeitung Ihrer Fallstudien. 3. Die\r\ngemeinsam durchgef&uuml;hrten Abschlusspr&auml;sentationen.\r\nSchwerpunktthema 2019 werden Weltmarktf&uuml;hrer aus dem DACH-Raum\r\nund/oder die Beziehungen zwischen Grossunternehmen und Start-Up's\r\nsein. sein, Vgl. hierzu auch <a tabindex=\"-1\" href=\"http://www.weltmarktfuehrerindex.de\">www.weltmarktfuehrerindex.de</a></p>",
+        "Courses": [
+          {
+            "CourseLanguage": {
+              "Code": "DE",
+              "IsRequestedLanguage": true,
+              "Language": "de",
+              "ShortName": "Deutsch",
+              "Id": 1,
+              "State": 0
+            },
+            "CourseNumber": "4,174,1.00",
+            "EventSkeletonKeyId": 1266,
+            "Lecturers": [
+              {
+                "DisplayName": "Müller Christoph A.",
+                "Email": "christoph.mueller@unisg.ch",
+                "FirstName": "Christoph A.",
+                "HsgEntityId": "4060918d-bea4-426d-930b-dc828ad7d671",
+                "HumanTypes": "Dozent, Student",
+                "LastName": "Müller",
+                "Prefix": null,
+                "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/4060918d-bea4-426d-930b-dc828ad7d671",
+                "Type": {
+                  "IsRemovable": false,
+                  "IsSelectable": true,
+                  "Description": "Dozent(in)",
+                  "IsRequestedLanguage": false,
+                  "Language": "de",
+                  "ShortName": "Dozent(in)",
+                  "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+                  "State": 0
+                },
+                "Id": "972c6df9-d1ae-490f-b8b8-c28b8248c257",
+                "State": 0
+              }
+            ],
+            "TimeTableLink": "https://tools.unisg.ch/Url/csojbn",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "Corporate Entrepreneurship",
+            "Id": "68fa2f69-3b90-4159-a965-cc038447cf03",
+            "State": 0
+          }
+        ],
+        "Credits": 400,
+        "Editors": [
+          {
+            "DisplayName": "Dalessi Lorenzo",
+            "Email": "lorenzo.dalessi@unisg.ch",
+            "FirstName": "Lorenzo",
+            "HsgEntityId": "a228f873-8b30-4d31-b55e-aa22eeb08f3a",
+            "HumanTypes": "Angestellter, Dozent, Student",
+            "LastName": "Dalessi",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/a228f873-8b30-4d31-b55e-aa22eeb08f3a",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "c949aef4-4f01-4164-b8c3-b2afe35cd60f",
+            "State": 0
+          },
+          {
+            "DisplayName": "Gmünder-Braun Susanne",
+            "Email": "susanne.gmuender@unisg.ch",
+            "FirstName": "Susanne",
+            "HsgEntityId": "ace18450-6c65-4918-8ff2-3a989e4d031b",
+            "HumanTypes": "Angestellter",
+            "LastName": "Gmünder-Braun",
+            "Prefix": "",
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/ace18450-6c65-4918-8ff2-3a989e4d031b",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "4926aa70-39ad-4865-abb4-733a19e5ca15",
+            "State": 0
+          },
+          {
+            "DisplayName": "Jugl Janik",
+            "Email": "janik.jugl@unisg.ch",
+            "FirstName": "Janik",
+            "HsgEntityId": "a487125d-3f84-4651-8d11-45644983a88a",
+            "HumanTypes": "Angestellter, Dozent, Student",
+            "LastName": "Jugl",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/a487125d-3f84-4651-8d11-45644983a88a",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL",
+              "Id": "be74068e-f0aa-442a-aca4-34e38a639c36",
+              "State": 0
+            },
+            "Id": "3803ac7a-9bde-44bb-81bb-d7795a28cb98",
+            "State": 0
+          },
+          {
+            "DisplayName": "Müller Christoph A.",
+            "Email": "christoph.mueller@unisg.ch",
+            "FirstName": "Christoph A.",
+            "HsgEntityId": "4060918d-bea4-426d-930b-dc828ad7d671",
+            "HumanTypes": "Dozent, Student",
+            "LastName": "Müller",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/4060918d-bea4-426d-930b-dc828ad7d671",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": true,
+              "Description": "Dozent(in)",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "Dozent(in)",
+              "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+              "State": 0
+            },
+            "Id": "972c6df9-d1ae-490f-b8b8-c28b8248c257",
+            "State": 0
+          },
+          {
+            "DisplayName": "Winkler Rainer",
+            "Email": "rainer.winkler@unisg.ch",
+            "FirstName": "Rainer",
+            "HsgEntityId": "538f988d-313d-47e7-9cfa-96c75e849763",
+            "HumanTypes": "Angestellter, Student",
+            "LastName": "Winkler",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/538f988d-313d-47e7-9cfa-96c75e849763",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "f9ba1242-4d13-4ed2-85ba-660e5016c79c",
+            "State": 0
+          },
+          {
+            "DisplayName": "Zenker Christina",
+            "Email": "christina.zenker@unisg.ch",
+            "FirstName": "Christina",
+            "HsgEntityId": "904537de-857e-4b8e-9aac-af31d63a1641",
+            "HumanTypes": "Angestellter, Student",
+            "LastName": "Zenker",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/904537de-857e-4b8e-9aac-af31d63a1641",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "71bb152c-6d77-42a8-834f-f895e9db3633",
+            "State": 0
+          }
+        ],
+        "LastModification": "2019-01-03T16:56:15.71",
+        "LastModifier": "HPachera",
+        "MajorVersion": 1,
+        "MinorVersion": 0,
+        "PublishedDate": "2019-01-03T16:56:15.693",
+        "SpecialInformation": null,
+        "AchievementFormStatus": {
+          "IsCentral": false,
+          "IsDeCentral": true,
+          "IsRegulated": false,
+          "Description": "Frei-Dezentral",
+          "IsRequestedLanguage": false,
+          "Language": "de",
+          "ShortName": "F/D",
+          "Id": "88d032b7-f64f-486b-8a31-30ba2f41fd76",
+          "State": 0
+        },
+        "AchievementResponsible": {
+          "DisplayName": "Müller Christoph A.",
+          "Email": "christoph.mueller@unisg.ch",
+          "FirstName": "Christoph A.",
+          "HsgEntityId": "4060918d-bea4-426d-930b-dc828ad7d671",
+          "HumanTypes": "Dozent, Student",
+          "LastName": "Müller",
+          "Prefix": null,
+          "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/4060918d-bea4-426d-930b-dc828ad7d671",
+          "Type": {
+            "IsRemovable": false,
+            "IsSelectable": true,
+            "Description": "Dozent(in)",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "Dozent(in)",
+            "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+            "State": 0
+          },
+          "Id": "972c6df9-d1ae-490f-b8b8-c28b8248c257",
+          "State": 0
+        },
+        "AdministrationLeader": {
+          "DisplayName": "Jugl Janik",
+          "Email": "janik.jugl@unisg.ch",
+          "FirstName": "Janik",
+          "HsgEntityId": "a487125d-3f84-4651-8d11-45644983a88a",
+          "HumanTypes": "Angestellter, Dozent, Student",
+          "LastName": "Jugl",
+          "Prefix": null,
+          "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/a487125d-3f84-4651-8d11-45644983a88a",
+          "Type": {
+            "IsRemovable": false,
+            "IsSelectable": false,
+            "Description": "ADL",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "ADL",
+            "Id": "be74068e-f0aa-442a-aca4-34e38a639c36",
+            "State": 0
+          },
+          "Id": "3803ac7a-9bde-44bb-81bb-d7795a28cb98",
+          "State": 0
+        },
+        "ChangedFields": null,
+        "CourseNumber": "4,174",
+        "CourseResponsible": {
+          "DisplayName": "Müller Christoph A.",
+          "Email": "christoph.mueller@unisg.ch",
+          "FirstName": "Christoph A.",
+          "HsgEntityId": "4060918d-bea4-426d-930b-dc828ad7d671",
+          "HumanTypes": "Dozent, Student",
+          "LastName": "Müller",
+          "Prefix": null,
+          "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/4060918d-bea4-426d-930b-dc828ad7d671",
+          "Type": {
+            "IsRemovable": false,
+            "IsSelectable": true,
+            "Description": "Dozent(in)",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "Dozent(in)",
+            "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+            "State": 0
+          },
+          "Id": "972c6df9-d1ae-490f-b8b8-c28b8248c257",
+          "State": 0
+        },
+        "HasPublishedVersion": true,
+        "HsgEntityId": "4a7d2eef-8359-4a1a-a833-d854ce2fcfa6",
+        "IsFulfilled": true,
+        "IsNewVersion": false,
+        "PublicationLanguageId": "b5736458-2f85-45c6-9285-8eef12f21ed6",
+        "SemesterId": "3a953bf8-9074-4221-82ae-febbe5edffab",
+        "StudyItemId": 507,
+        "WorkflowState": 5,
+        "Description": "(engl.)",
+        "IsRequestedLanguage": true,
+        "Language": "de",
+        "ShortName": "Corporate Entrepreneurship",
+        "Id": "428ec142-a8c8-4df5-8871-8e0c2a670a56",
+        "State": 0
+      },
+      {
+        "AchievementContent": "<p style=\"color: #333333;\" class=\"Default\"><span style=\"color: #333333;\"><strong>Individuelle Assignments:</strong> Durch\r\nindividuelle Assignments sollen die im Rahmen der Veranstaltung\r\nvorgestellten Verfahren vertieft sowie der Umgang mit den\r\nverwendeten Tools verfestigt werden. Die Assignments sind\r\nsemesterbegleitend. Voraussichtlich werden 3-4 Assignments zu\r\nbearbeiten sein, die insg. 50% der Gesamtleistung\r\nausmachen.</span></p>\r\n\r\n<p style=\"color: #333333;\" class=\"Default\"><span style=\"color: #333333;\"><strong>Abschlussprojekt:</strong> In einer\r\nGruppenarbeit ist auf Basis eines realweltlichen Datensatzes eine\r\nkonkrete Fragestellung zu beantworten und im Rahmen eines Data\r\nScience Reports aufzubereiten. Das Abschlussprojekt macht 50% der\r\nGesamtleistung aus.</span></p>",
+        "AchievementLiterature": "siehe Veranstaltungsliteratur.",
+        "AchievementParts": [
+          {
+            "AchievementAid": {
+              "IsAllowed": true,
+              "IsRequired": false,
+              "Description": "<ul><li>Schriftliche Arbeiten müssen ohne fremde Hilfe nach den bekannten Zitationsstandards verfasst werden und es ist eine Eigenständigkeitserklärung anzubringen.</li><li>Das Dokumentieren (Zitate, Literaturverzeichnisse) hat durchgängig und konsequent nach APA- oder MLA-Standard zu erfolgen. Die Quellenangaben für wörtlich und sinngemäss übernommene Informationen (Zitate) sind entsprechend der Vorgaben des verwendeten Zitationsstandards in den Text zu integrieren, informierende und bibliografische Anmerkungen sind als Fussnoten anzubringen (Empfehlungen und Standards z.B. bei METZGER, C. (2017), Lern- und Arbeitsstrategien (12. Aufl., Cornelsen Schweiz).</li><li>Für alle Arbeiten, welche an der Universität St. Gallen geschrieben werden, ist die Angabe von Seitenzahlen sowohl nach MLA- wie auch nach APA-Standard nie fakultativ.</li><li>Wo in Quellen die Seitenangabe fehlt, muss die präzise Bezeichnung anders erfolgen: Kapitel- oder Abschnittüberschrift, Abschnittsnummer, Akt, Szene, Vers, usw.</li><li>Für juristische Arbeiten wird der juristische Standard empfohlen (vgl. beispielhaft FORSTMOSER, P., OGOREK R. et SCHINDLER B. (2018), Juristisches Arbeiten: Eine Anleitung für Studierende (6. Auflage), Zürich: Schulthess oder beachten Sie die Empfehlungen der Law School).</li></ul>",
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "Schriftliche Arbeiten",
+              "Id": 9,
+              "State": 0
+            },
+            "AchievementForm": {
+              "IsCentral": false,
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "schriftliche Hausarbeit (einzeln)",
+              "Id": 14,
+              "State": 0
+            },
+            "AchievementPartKeyId": 23521,
+            "AdditionalAid": null,
+            "AnswerLanguages": [
+              {
+                "Code": "DE",
+                "IsRequestedLanguage": true,
+                "Language": "de",
+                "ShortName": "Deutsch",
+                "Id": 1,
+                "State": 0
+              }
+            ],
+            "Duration": null,
+            "QuestionLanguages": [
+              {
+                "Code": "DE",
+                "IsRequestedLanguage": true,
+                "Language": "de",
+                "ShortName": "Deutsch",
+                "Id": 1,
+                "State": 0
+              }
+            ],
+            "Remark": "Semesterbegleitende schriftliche Assignments",
+            "SortOrder": 1,
+            "Weightage": 5000,
+            "Id": "eda539ce-88fa-4737-af84-471a2ea4157d",
+            "State": 0
+          },
+          {
+            "AchievementAid": {
+              "IsAllowed": true,
+              "IsRequired": false,
+              "Description": "<ul><li>Schriftliche Arbeiten müssen ohne fremde Hilfe nach den bekannten Zitationsstandards verfasst werden und es ist eine Eigenständigkeitserklärung anzubringen.</li><li>Das Dokumentieren (Zitate, Literaturverzeichnisse) hat durchgängig und konsequent nach APA- oder MLA-Standard zu erfolgen. Die Quellenangaben für wörtlich und sinngemäss übernommene Informationen (Zitate) sind entsprechend der Vorgaben des verwendeten Zitationsstandards in den Text zu integrieren, informierende und bibliografische Anmerkungen sind als Fussnoten anzubringen (Empfehlungen und Standards z.B. bei METZGER, C. (2017), Lern- und Arbeitsstrategien (12. Aufl., Cornelsen Schweiz).</li><li>Für alle Arbeiten, welche an der Universität St. Gallen geschrieben werden, ist die Angabe von Seitenzahlen sowohl nach MLA- wie auch nach APA-Standard nie fakultativ.</li><li>Wo in Quellen die Seitenangabe fehlt, muss die präzise Bezeichnung anders erfolgen: Kapitel- oder Abschnittüberschrift, Abschnittsnummer, Akt, Szene, Vers, usw.</li><li>Für juristische Arbeiten wird der juristische Standard empfohlen (vgl. beispielhaft FORSTMOSER, P., OGOREK R. et SCHINDLER B. (2018), Juristisches Arbeiten: Eine Anleitung für Studierende (6. Auflage), Zürich: Schulthess oder beachten Sie die Empfehlungen der Law School).</li></ul>",
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "Schriftliche Arbeiten",
+              "Id": 9,
+              "State": 0
+            },
+            "AchievementForm": {
+              "IsCentral": false,
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "Schriftliche Gruppenarbeit mit Präsentation (Benotung für alle gleich)",
+              "Id": 29,
+              "State": 0
+            },
+            "AchievementPartKeyId": 23522,
+            "AdditionalAid": null,
+            "AnswerLanguages": [
+              {
+                "Code": "DE",
+                "IsRequestedLanguage": true,
+                "Language": "de",
+                "ShortName": "Deutsch",
+                "Id": 1,
+                "State": 0
+              }
+            ],
+            "Duration": null,
+            "QuestionLanguages": [
+              {
+                "Code": "DE",
+                "IsRequestedLanguage": true,
+                "Language": "de",
+                "ShortName": "Deutsch",
+                "Id": 1,
+                "State": 0
+              }
+            ],
+            "Remark": "Abschussprojekt",
+            "SortOrder": 2,
+            "Weightage": 5000,
+            "Id": "f148a4c0-07a9-4c1a-88f5-afe4de3d4fab",
+            "State": 0
+          }
+        ],
+        "Comment": null,
+        "CourseAdditionalInformation": "Prof. Dr. Ivo Blohm ist Assistenzprofessor f&uuml;r Data Science\r\nund Management am Institut f&uuml;r Wirtschaftsinformatik an der\r\nUniverstit&auml;t St. Gallen. Zudem leitet er das Competence Center\r\nCrowdsourcing. \r\n\r\n<p style=\"color: #333333;\">Kontakt: ivo.blohm@unisg.ch</p>",
+        "CourseContent": "<p style=\"color: #333333;\"><span style=\"color: #333333;\">Daten sind\r\ndas neue &Ouml;l! Daten sind eine neue Asset-Klasse! Solche und\r\n&auml;hnliche Aussagen sind heute allgegenw&auml;rtig und sollen\r\ndas grosse wirtschaftliche Potenzial von Data Science und\r\nk&uuml;nstlicher Intelligenz veranschaulichen. \"Smarte\" Produkte\r\nund Dienstleistungen sind bereits heute allgegenwertig und werden\r\nin Zukunft eine immer gr&ouml;ssere Rolle in unseren Privat- und\r\nArbeitsleben spielen. So galten beispielsweise selbstfahrende Autos\r\nvor 10 Jahren noch als technische Utopie; heute wartet man auf die\r\nfl&auml;chendeckende Markteinf&uuml;hrung.</span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"color: #333333;\">&Uuml;bergeordnetes Ziel des Kurses ist es,\r\nStudierende in die Lage zu versetzen, mittels Big Data, Data\r\nScience, Machine Learning &amp; Co betriebswirtschaftliche Probleme\r\nl&ouml;sen zu k&ouml;nnen. Daf&uuml;r verfolgt der Kurs ein\r\nFallstudien-orientiertes Kursdesign. In jeder Fallstudie wird auf\r\nBasis einer konkreten betriebswirtschaftlichen Problemstellung,\r\neine prototypische Anwendung entwickelt, um z.B. die finanzielle\r\nPerformance, operative Effizienz oder die Effektivit&auml;t von\r\nWerbemassnahmen zu verbessern. Im Rahmen der Fallstudien werden\r\neine Vielzahl von unterschiedlichen Algorithmen und\r\nAnalyse-Ans&auml;tzen besprochen und einge&uuml;bt.</span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"color: #333333;\">Die\r\nFallstudien stammen dabei in der Regel aus dem Kontext von\r\nf&uuml;hrenden Internet- und Technologie-Unternehmen, wie z.B.\r\nFacebook, Linkedin, Netflix, Orange oder Zalando. Diese\r\nFallbeispiele umfassen dabei u.a. die Vorhersage von\r\nWeinqualit&auml;t, Vorhersage von zuk&uuml;nftigen Kundenverhalten,\r\ndas Erstellen von Kaufempfehlungen oder die automatisierte\r\nIdentifikation von Fake News. Studierende lernen dabei den Umgang\r\nmit grossen unstrukturierten Datenmengen.</span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"color: #333333;\">Nach Ende\r\nder Veranstaltung k&ouml;nnen Studierende:</span></p>\r\n\r\n<ul style=\"color: #333333; list-style-type: disc;\">\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\">Betriebswirtschaftliche Problemstellungen in\r\ndatenanalytische Fragestellungen &uuml;berf&uuml;hren</span></li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\">Datenanalytische Ans&auml;tze und Methoden bei\r\nf&uuml;r betriebswirtschaftlichen Datens&auml;tze ausw&auml;hlen,\r\nimplementieren und bewerten.</span></li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\">Unterschiedliche Verfahren zu Datensammlung\r\nanwenden und Rohdaten f&uuml;r die weitere Analyse\r\naufbereiten.</span></li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\">Analyseergebnisse visualisieren und effektiv\r\nkommunizieren.</span></li>\r\n</ul>",
+        "CourseLanguage": {
+          "Code": "DE",
+          "IsRequestedLanguage": true,
+          "Language": "de",
+          "ShortName": "Deutsch",
+          "Id": 1,
+          "State": 0
+        },
+        "CourseLiterature": "<ul>\r\n<li style=\"color: #333333;\" class=\"Default\"><span style=\"color: #333333;\">Provost, F., Fawcett, T. (2013): Data Science for\r\nBusiness: What you need to know about data mining and data-analytic\r\nthinking, O'Reilly</span></li>\r\n\r\n<li style=\"color: #333333;\" class=\"Default\"><span style=\"color: #333333;\">Hastie, T., Tibshirani, R. (2017): Elements of\r\nStatistical Learning. Data mining, Inference and Prediction,\r\nSpringer</span></li>\r\n\r\n<li style=\"color: #333333;\" class=\"Default\">Bertsimas, D., O'Hair,\r\nA., Pulleyblank, W. (2016): The Analytics Edge. Dynamic Ideas\r\nLLC.</li>\r\n</ul>",
+        "CoursePrerequisites": "<p style=\"color: #333333;\"><span style=\"color: #333333;\">Es werden\r\ngrundlegende Kenntnisse in Statistik, Machine Learning und (R-)\r\nProgrammierung erwartet, wie sie in der Grundlagenveranstaltung des\r\n&laquo;Data Science Fundamentals&raquo; Zertifikat vermittelt\r\nwerden. Es werden umfangreiche Unterlagen zur Wiederholung /\r\nEinf&uuml;hrung bereitgestellt, so dass der Kurs prinzipiell auch\r\nohne entsprechende Vorkenntnisse absolviert werden kann.</span></p>",
+        "CourseStructure": "<p style=\"color: #333333;\"><span style=\"color: #333333;\">Jede\r\nVorlesungsstunde ist zweigeteilt. Im ersten Teil erfolgt eine\r\ngrundlegende Einf&uuml;hrung in die oben genannten Schwerpunkte\r\ndurch den Dozierenden. Der zweite Teil dient der praktischen\r\nEin&uuml;bung der vorgestellten Verfahren und Ans&auml;tze.\r\nDaf&uuml;r wird jeweils ein &Uuml;bungsbeispiel durch den Dozenten\r\nvorgef&uuml;hrt, dass anschliessend von den Studierenden wiederholt\r\nund mit weiterf&uuml;hrenden Aufgaben vertieft wird.</span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"color: #333333;\">Zur\r\nEin&uuml;bung der Analyseverfahren werden Video-Tutorials und\r\nDatens&auml;tze zur Verf&uuml;gung gestellt. Zudem sind einige\r\nTeile der Veranstaltung im Selbststudium zu absolvieren.</span></p>",
+        "Courses": [
+          {
+            "CourseLanguage": {
+              "Code": "DE",
+              "IsRequestedLanguage": true,
+              "Language": "de",
+              "ShortName": "Deutsch",
+              "Id": 1,
+              "State": 0
+            },
+            "CourseNumber": "4,585,1.00",
+            "EventSkeletonKeyId": 6134,
+            "Lecturers": [
+              {
+                "DisplayName": "Blohm Ivo",
+                "Email": "ivo.blohm@unisg.ch",
+                "FirstName": "Ivo",
+                "HsgEntityId": "b1132e98-9adc-4d09-8a33-96fe02d87434",
+                "HumanTypes": "Dozent, Student",
+                "LastName": "Blohm",
+                "Prefix": null,
+                "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/b1132e98-9adc-4d09-8a33-96fe02d87434",
+                "Type": {
+                  "IsRemovable": false,
+                  "IsSelectable": true,
+                  "Description": "Dozent(in)",
+                  "IsRequestedLanguage": false,
+                  "Language": "de",
+                  "ShortName": "Dozent(in)",
+                  "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+                  "State": 0
+                },
+                "Id": "837eabf7-1508-4333-a214-c2cb63f3b1f2",
+                "State": 0
+              }
+            ],
+            "TimeTableLink": "https://tools.unisg.ch/Url/cs5o57",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "Business Analytics und Data Science Applications",
+            "Id": "40b61705-96e3-4afb-84d9-ffbf3e38092e",
+            "State": 0
+          }
+        ],
+        "Credits": 400,
+        "Editors": [
+          {
+            "DisplayName": "Albers Margit L.",
+            "Email": "margit.albers@unisg.ch",
+            "FirstName": "Margit L.",
+            "HsgEntityId": "6e6c2120-5899-49be-8689-6d1111eeb786",
+            "HumanTypes": "Angestellter",
+            "LastName": "Albers",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/6e6c2120-5899-49be-8689-6d1111eeb786",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL",
+              "Id": "be74068e-f0aa-442a-aca4-34e38a639c36",
+              "State": 0
+            },
+            "Id": "9994eb64-c203-4895-ad27-a67e899409b8",
+            "State": 0
+          },
+          {
+            "DisplayName": "Blohm Ivo",
+            "Email": "ivo.blohm@unisg.ch",
+            "FirstName": "Ivo",
+            "HsgEntityId": "b1132e98-9adc-4d09-8a33-96fe02d87434",
+            "HumanTypes": "Dozent, Student",
+            "LastName": "Blohm",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/b1132e98-9adc-4d09-8a33-96fe02d87434",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": true,
+              "Description": "Dozent(in)",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "Dozent(in)",
+              "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+              "State": 0
+            },
+            "Id": "837eabf7-1508-4333-a214-c2cb63f3b1f2",
+            "State": 0
+          }
+        ],
+        "LastModification": "2019-01-08T14:08:28.717",
+        "LastModifier": "HPachera",
+        "MajorVersion": 1,
+        "MinorVersion": 0,
+        "PublishedDate": "2019-01-08T14:08:28.7",
+        "SpecialInformation": null,
+        "AchievementFormStatus": {
+          "IsCentral": false,
+          "IsDeCentral": true,
+          "IsRegulated": false,
+          "Description": "Frei-Dezentral",
+          "IsRequestedLanguage": false,
+          "Language": "de",
+          "ShortName": "F/D",
+          "Id": "88d032b7-f64f-486b-8a31-30ba2f41fd76",
+          "State": 0
+        },
+        "AchievementResponsible": {
+          "DisplayName": "Blohm Ivo",
+          "Email": "ivo.blohm@unisg.ch",
+          "FirstName": "Ivo",
+          "HsgEntityId": "b1132e98-9adc-4d09-8a33-96fe02d87434",
+          "HumanTypes": "Dozent, Student",
+          "LastName": "Blohm",
+          "Prefix": null,
+          "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/b1132e98-9adc-4d09-8a33-96fe02d87434",
+          "Type": {
+            "IsRemovable": false,
+            "IsSelectable": true,
+            "Description": "Dozent(in)",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "Dozent(in)",
+            "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+            "State": 0
+          },
+          "Id": "837eabf7-1508-4333-a214-c2cb63f3b1f2",
+          "State": 0
+        },
+        "AdministrationLeader": {
+          "DisplayName": "Albers Margit L.",
+          "Email": "margit.albers@unisg.ch",
+          "FirstName": "Margit L.",
+          "HsgEntityId": "6e6c2120-5899-49be-8689-6d1111eeb786",
+          "HumanTypes": "Angestellter",
+          "LastName": "Albers",
+          "Prefix": null,
+          "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/6e6c2120-5899-49be-8689-6d1111eeb786",
+          "Type": {
+            "IsRemovable": false,
+            "IsSelectable": false,
+            "Description": "ADL",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "ADL",
+            "Id": "be74068e-f0aa-442a-aca4-34e38a639c36",
+            "State": 0
+          },
+          "Id": "9994eb64-c203-4895-ad27-a67e899409b8",
+          "State": 0
+        },
+        "ChangedFields": null,
+        "CourseNumber": "4,585",
+        "CourseResponsible": {
+          "DisplayName": "Blohm Ivo",
+          "Email": "ivo.blohm@unisg.ch",
+          "FirstName": "Ivo",
+          "HsgEntityId": "b1132e98-9adc-4d09-8a33-96fe02d87434",
+          "HumanTypes": "Dozent, Student",
+          "LastName": "Blohm",
+          "Prefix": null,
+          "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/b1132e98-9adc-4d09-8a33-96fe02d87434",
+          "Type": {
+            "IsRemovable": false,
+            "IsSelectable": true,
+            "Description": "Dozent(in)",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "Dozent(in)",
+            "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+            "State": 0
+          },
+          "Id": "837eabf7-1508-4333-a214-c2cb63f3b1f2",
+          "State": 0
+        },
+        "HasPublishedVersion": true,
+        "HsgEntityId": "25b22877-41d7-4cef-bba0-f219f2050ff9",
+        "IsFulfilled": true,
+        "IsNewVersion": false,
+        "PublicationLanguageId": "b5736458-2f85-45c6-9285-8eef12f21ed6",
+        "SemesterId": "3a953bf8-9074-4221-82ae-febbe5edffab",
+        "StudyItemId": 5410,
+        "WorkflowState": 5,
+        "Description": null,
+        "IsRequestedLanguage": true,
+        "Language": "de",
+        "ShortName": "Business Analytics und Data Science Applications",
+        "Id": "0c713a39-35fb-447b-bfdc-0e6ab9a17d99",
+        "State": 0
+      },
+      {
+        "AchievementContent": "<p style=\"background: white; color: #333333;\"><strong style=\"color: #333333;\"><span style=\"color: #333333;\">WRITTEN GROUP PAPER\r\n(40%; 8000-9000 characters; groups of 2-3 people decided by\r\nstudents)</span></strong></p>\r\n\r\n<p style=\"background: white; color: #333333;\"><span style=\"color: #333333;\">Choose&nbsp;<span style=\"color: #333333;\">an\r\narticle</span>&nbsp;discussed during the course on the social\r\nacceptance of sustainable energy infrastructures, or a related one,\r\nand critically analyze it by:</span></p>\r\n\r\n<p style=\"background: white; color: #333333;\"><span style=\"color: #333333;\">- Summarizing its main arguments, results and\r\nconclusions;</span></p>\r\n\r\n<p style=\"background: white; color: #333333;\"><span style=\"color: #333333;\">- Relating those arguments, results and\r\nconclusions with the larger literature on the social acceptance of\r\nsustainable energy infrastructures and sustainable energy\r\ntransitions;</span></p>\r\n\r\n<p style=\"background: white; color: #333333;\"><span style=\"color: #333333;\">- Identifying its main limitations/<span style=\"color: #333333;\">weaknesses</span>&nbsp;at&nbsp;<span style=\"color: #333333;\">the</span>&nbsp;theoretical, empirical and\r\napplied* levels (if any), and discussing ways to overcome\r\nthem;</span></p>\r\n\r\n<p style=\"background: white; color: #333333;\"><span style=\"color: #333333;\">* Regarding the translation and implementation of\r\nthe main arguments, results and conclusions at policy-making,\r\ncommunity and/or societal levels.</span><span style=\"color: #333333;\">&nbsp;&nbsp;</span></p>\r\n\r\n<p style=\"background: white; color: #333333;\"><strong style=\"color: #333333;\"><span style=\"color: #333333;\">&nbsp;</span></strong></p>\r\n\r\n<p style=\"background: white; color: #333333;\"><span style=\"color: #333333;\">All group members will receive the same grade.\r\nThe role and involvement of each group member in the paper should\r\nbe described by the end of the paper (i.e., writing original draft\r\nof section x; review and editing of section x; conceptualization;\r\nformatting; literature search; literature\r\nreview;&hellip;).</span></p>\r\n\r\n<p style=\"background: white; color: #333333;\"><span style=\"color: #333333;\">Grades will be in a scale of 1-6 and the\r\nevaluation will be based on the following criteria:</span></p>\r\n\r\n<p style=\"background: white; color: #333333;\"><span style=\"color: #333333;\">- Accuracy of the summary of the main arguments,\r\nresults and conclusions of the paper;</span></p>\r\n\r\n<p style=\"background: white; color: #333333;\"><span style=\"color: #333333;\">- Evidence of critical engagement with the paper\r\nand the literature reviewed (i.e., ability to identify limitations,\r\npropose alternative ways to examine the problem, challenge dominant\r\nviews over the problem);</span></p>\r\n\r\n<p style=\"background: white; color: #333333;\"><span style=\"color: #333333;\">- Clarity of the arguments and of the structure\r\nof the manuscript.</span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"color: #333333;\">&nbsp;</span></p>\r\n\r\n<p style=\"background: white; color: #333333;\"><strong style=\"color: #333333;\"><span style=\"color: #333333;\">WRITTEN INDIVIDUAL\r\nEXAMINATION (60%; 12000-16000 characters)&nbsp;</span></strong></p>\r\n\r\n<p style=\"background: white; color: #333333;\"><span style=\"color: #333333;\">Choose&nbsp;<span style=\"color: #333333;\">one</span>&nbsp;particular energy controversy\r\nthat has been publicly discussed, anywhere in the world, within the\r\nlast year (e.g. in newspapers, TV, parliament etc).</span></p>\r\n\r\n<p style=\"background: white; color: #333333;\"><span style=\"color: #333333;\">Examine and&nbsp;<span style=\"color: #333333;\">critically discuss</span>&nbsp;the chosen\r\ncontroversy&nbsp;<span style=\"color: #333333;\">taking into\r\naccount</span> the main concepts, theoretical approaches and\r\nanalytical tools presented and debated during the course on the\r\nsocial acceptance of sustainable energy infrastructures.</span></p>\r\n\r\n<p style=\"background: white; color: #333333;\"><span style=\"color: #333333;\">Grades will be in a scale of 1-6 and the\r\nevaluation will be based on the following criteria:</span></p>\r\n\r\n<p style=\"background: white; color: #333333;\"><span style=\"color: #333333;\">- Appropriate contextualization of the chosen\r\nenergy controversy;</span></p>\r\n\r\n<p style=\"background: white; color: #333333;\"><span style=\"color: #333333;\">- Discussion of relevant and state of the art\r\nliterature;</span></p>\r\n\r\n<p style=\"background: white; color: #333333;\"><span style=\"color: #333333;\">- Evidence of critical engagement with the\r\nproblem and the literature reviewed (i.e., ability to identify\r\nlimitations, propose alternative ways to examine the problem,\r\nchallenge dominant views over the problem);</span></p>\r\n\r\n<p style=\"background: white; color: #333333;\"><span style=\"color: #333333;\">- Strength of arguments;</span></p>\r\n\r\n<span style=\"color: #333333;\">- Clarity of the arguments and of the\r\nstructure of the manuscript.</span>",
+        "AchievementLiterature": "<ul style=\"list-style-type: disc; color: #333333;\">\r\n<li style=\"color: #333333;\">\r\n<p style=\"font-family: Arial; font-size: 12px; font-weight: normal;\"><span style=\"color: #333333;\">The articles and book chapters included in\r\nthe compulsory literature will be made available on the StudyNet\r\nbefore the 1st of March.</span></p>\r\n</li>\r\n\r\n<li style=\"color: #333333;\">\r\n<ul style=\"list-style-type: disc; color: #333333;\">\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\">Compulsory literature</span> \r\n\r\n<p style=\"color: #333333;\"><span style=\"background: white none repeat scroll 0% 0%; color: #333333;\">Aitken,\r\nM. (2010). Why we still don't understand the social aspects of wind\r\npower: A critique of key assumptions within the\r\nliterature.&nbsp;<em style=\"color: #333333;\">Energy\r\nPolicy</em>,&nbsp;<em style=\"color: #333333;\">38</em>(4),\r\n1834-1841.</span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"background: white none repeat scroll 0% 0%; color: #333333;\">Batel,\r\nS. (2018). A critical discussion of research on the social\r\nacceptance of renewable energy generation and associated\r\ninfrastructures and an agenda for the future.&nbsp;<em style=\"color: #333333;\">Journal of Environmental Policy &amp;\r\nPlanning</em>, 20, 356-369.</span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"background: white none repeat scroll 0% 0%; color: #333333;\">Batel.,\r\nS., Devine-Wright, P., &amp; Tangeland, T. (2013). Social\r\nacceptance of low carbon energy and associated infrastructures: A\r\ncritical discussion. <em style=\"color: #333333;\">Energy Policy,\r\n58</em>, 1-5.</span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"color: #333333;\">Bell, D.,\r\nGray, T., Haggett, C., &amp; Swaffield, J. (2013). Re-visiting the\r\nsocial gap: Public opinion and relations of power in the local\r\npolitics of wind energy. <em style=\"color: #333333;\">Environmental\r\nPolitics, 22</em>, 115-135.</span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"background: white none repeat scroll 0% 0%; color: #333333;\">Bridge,\r\nG., Bouzarovski, S., Bradshaw, M., &amp; Eyre, N. (2013).\r\nGeographies of energy transition: Space, place and the low-carbon\r\neconomy.&nbsp;</span> <em style=\"color: #333333;\"><span style=\"background: white none repeat scroll 0% 0%; color: #333333;\">Energy\r\nPolicy</span></em><span style=\"background: white none repeat scroll 0% 0%; color: #333333;\">,&nbsp;<em style=\"color: #333333;\">53</em>, 331-340.</span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"background: white none repeat scroll 0% 0%; color: #333333;\">Ellis,\r\nG., Barry, J., &amp; Robinson, C. (2007). Many ways to say 'no',\r\ndifferent ways to say 'yes': applying Q-methodology to understand\r\npublic acceptance of wind farm proposals.&nbsp;<em style=\"color: #333333;\">Journal of Environmental Planning and\r\nManagement</em>,&nbsp;<em style=\"color: #333333;\">50</em>(4),\r\n517-551.</span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"background: white none repeat scroll 0% 0%; color: #333333;\">Geels,\r\nF. W., Schwanen, T., Sorrell, S., Jenkins, K., &amp; Sovacool, B.\r\nK. (2018). Reducing energy demand through low carbon innovation: A\r\nsociotechnical transitions perspective and thirteen research\r\ndebates.&nbsp;<em style=\"color: #333333;\">Energy Research &amp;\r\nSocial Science</em>,&nbsp;<em style=\"color: #333333;\">40</em>,\r\n23-35.</span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"background: white none repeat scroll 0% 0%; color: #333333;\">Hargreaves,\r\nT., Nye, M., &amp; Burgess, J. (2010). Making energy visible: A\r\nqualitative field study of how householders interact with feedback\r\nfrom smart energy monitors.&nbsp;<em style=\"color: #333333;\">Energy\r\nPolicy</em>,&nbsp;<em style=\"color: #333333;\">38</em>(10),\r\n6111-6119.</span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"color: #333333;\">Nada&iuml;, A., &amp; Labussi&egrave;re, O.\r\n(2017).</span> <span style=\"color: #333333;\">Exhaustible-renewable\r\nwind power (pp.306-329). In S. Bouzarovski, M. Pasqualetti, &amp;\r\nV. Broto (Eds.) (2017). <em style=\"color: #333333;\">The Routledge\r\nResearch Companion to Energy Geographies</em>.\r\nRoutledge.</span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"background: white none repeat scroll 0% 0%; color: #333333;\">Walker,\r\nG. (2009). Beyond distribution and proximity: exploring the\r\nmultiple spatialities of environmental justice.&nbsp;<em style=\"color: #333333;\">Antipode</em>,&nbsp;<em style=\"color: #333333;\">41</em>(4), 614-636.</span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"color: #333333;\">Walker et\r\nal., (2011). Symmetries, expectations, dynamics and contexts: A\r\nframework for understanding public engagement with renewable energy\r\nprojects (pp.1-14). In <em style=\"color: #333333;\">Renewable Energy\r\nand the Public: From NIMBY to Participation,</em> P. Devine-Wright\r\n(Ed.) (2011). Routledge.</span></p>\r\n</li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\">Supplementary literature</span></li>\r\n</ul>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"background: white none repeat scroll 0% 0%; color: #333333;\">Batel,\r\nS., &amp; Devine</span><span style=\"background: white none repeat scroll 0% 0%; color: #333333;\">&#8208;</span><span style=\"background: white none repeat scroll 0% 0%; color: #333333;\">Wright,\r\nP. (2017). Energy colonialism and the role of the global in local\r\nresponses to new energy infrastructures in the UK: A critical and\r\nexploratory empirical analysis.&nbsp;<em style=\"color: #333333;\">Antipode</em>,&nbsp;<em style=\"color: #333333;\">49</em>(1), 3-22.</span></p>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"color: #333333;\">Batel, S., Castro, P., Devine-Wright, P., &amp;\r\nHowarth, C. (2016). Developing a critical agenda to understand\r\npro-environmental actions: Contributions from Social\r\nRepresentations and Social Practices Theories. <em style=\"color: #333333;\">Wiley Interdisciplinary Reviews: Climate Change,\r\n7,</em> 727-745.</span></p>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"color: #333333;\">Bouzarovski, S., Pasqualetti, M., &amp; Broto, V.\r\n(Eds.) (2017). <em style=\"color: #333333;\">The Routledge Research\r\nCompanion to Energy Geographies</em>. Routledge.</span></p>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"color: #333333;\">Castree, N. (2014). <em style=\"color: #333333;\">Making Sense of Nature</em>.\r\nRoutledge.</span></p>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"color: #333333;\">Chilvers, J., &amp; Longhurst, N. (</span><span style=\"color: #333333;\">2016</span><span style=\"color: #333333;\">).\r\nParticipation in transition(s): Reconceiving public engagements in\r\nenergy transitions as coproduced, emergent and diverse. <em style=\"color: #333333;\">Journal of Environmental Policy &amp; Planning,\r\n18</em>, 585-607.</span></p>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"color: #333333;\">Cowell, R., Bristow, G., &amp; Munday, M. (2011).\r\nAcceptance, acceptability and environmental justice: the role of\r\ncommunity benefits in wind energy development.&nbsp;<em style=\"color: #333333;\">Journal of Environmental Planning and\r\nManagement</em>,&nbsp;<em style=\"color: #333333;\">54</em>(4),\r\n539-557.</span></p>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"color: #333333;\">Devine-Wright, P. (Ed.) (2011). <em style=\"color: #333333;\">Renewable Energy and the Public: From NIMBY to\r\nParticipation.</em> Routledge.</span></p>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"color: #333333;\">Devine-Wright, P. (2009). Rethinking NIMBYism:\r\nThe role of place attachment and place identity in explaining\r\nplace-protective action. <em style=\"color: #333333;\">Journal of\r\nCommunity and Applied Social Psychology, 19</em>,\r\n426-441.</span></p>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"color: #333333;\">Fast, S. (</span><span style=\"color: #333333;\">2015</span><span style=\"color: #333333;\">).\r\nQualified, absolute, idealistic, impatient: Dimensions of host\r\ncommunity responses to wind energy projects. <em style=\"color: #333333;\">Environment and Planning A, 47</em>(7),\r\n1540-1557.</span></p>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"color: #333333;\">Gismondi, M. (2018). Historizicing transitions:\r\nThe value of historical theory to energy transition. <em style=\"color: #333333;\">Energy Research and Social Science, 38</em>,\r\n193-198.</span></p>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"color: #333333;\">Healy, N., Stephens, J., &amp; Malin, S. (2019).\r\nEmbodied energy injustices: Unveiling and politicizing the\r\ntransboundary harms of fossil fuel extractivism and fossil fuel\r\nsupply chains. <em style=\"color: #333333;\">Energy Research and\r\nSocial Science, 48</em>, 2019-234.</span></p>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"color: #333333;\">Hielscher, S., &amp; Kivimaa, P. (2018).\r\nGovernance through expectations: Examining the long-term policy\r\nrelevance of smart meters in the United Kingdom. <em style=\"color: #333333;\">Futures</em>.</span></p>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"background: white none repeat scroll 0% 0%; color: #333333;\">Malone,\r\nE., Hultman, N. E., Anderson, K. L., &amp; Romeiro, V. (2017).\r\nStories about ourselves: How national narratives influence the\r\ndiffusion of large-scale energy technologies.&nbsp;<em style=\"color: #333333;\">Energy Research &amp; Social\r\nScience</em>,&nbsp;<em style=\"color: #333333;\">31</em>,\r\n70-76.</span></p>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"color: #333333;\">Rudolph, D., &amp; Kirkegaard, J. (2018). Making\r\nspace for wind farms: Practices of territorial stigmatization in\r\nrural Denmark. <em style=\"color: #333333;\">Antipode</em>.</span></p>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"color: #333333;\">Sherren, K., et al., (2016). Learning (or living)\r\nto love the landscapes of hydroelectricity in Canada: Eliciting\r\nlocal perspectives on the Mactaquac Dam via headpond boat tours.\r\n<em style=\"color: #333333;\">Energy Research and Social Science,\r\n14</em>, 102-110.</span></p>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"background: white none repeat scroll 0% 0%; color: #333333;\">Shove,\r\nE. (2017). What is wrong with energy efficiency?.&nbsp;</span> <em style=\"color: #333333;\"><span style=\"background: white none repeat scroll 0% 0%; color: #333333;\">Building\r\nResearch &amp; Information</span></em><span style=\"background: white none repeat scroll 0% 0%; color: #333333;\">,\r\n1-11.</span></p>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"color: #333333;\">Shove, E., Pantzar, M., &amp; Watson, M. (2012).\r\n<em style=\"color: #333333;\">The Dynamics of Social Practice:\r\nEveryday Life and How it Changes</em>. Sage.</span></p>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"color: #333333;\">Sovacool, B., &amp; Hess, D. (2017). Ordering\r\ntheories: Typologies and conceptual frameworks for sociotechnical\r\nchange. <em style=\"color: #333333;\">Social Studies of Science,\r\n47</em>, 703-750.</span></p>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"color: #333333;\">Wolsink, M. (2018). Social acceptance revisited:\r\nGaps, questionable trend, and an auspicious perspective. <em style=\"color: #333333;\">Energy Research and Social\r\nScience.</em></span></p>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"background: white none repeat scroll 0% 0%; color: #333333;\">Wolsink,\r\nM. (2017). Co-production in distributed generation: renewable\r\nenergy and creating space for fitting infrastructure within\r\nlandscapes.&nbsp;<em style=\"color: #333333;\">Landscape\r\nResearch</em>, 1-20.</span></p>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"background: white none repeat scroll 0% 0%; color: #333333;\">Wuebben,\r\nD. (2017). From wire evil to power line poetics: The ethics and\r\naesthetics of renewable transmission. <em style=\"color: #333333;\">Energy Research and Social Science, 30</em>,\r\n53-60.</span></p>\r\n\r\n<p style=\"margin-left: 36pt; color: #333333;\"><span style=\"background: white none repeat scroll 0% 0%; color: #333333;\">W&uuml;stenhagen,\r\nR., Wolsink, M., &amp; B&uuml;rer, M. J. (2007). Social acceptance\r\nof renewable energy innovation: An introduction to the\r\nconcept.&nbsp;<em style=\"color: #333333;\">Energy\r\npolicy</em>,&nbsp;<em style=\"color: #333333;\">35</em>(5),\r\n2683-2691.</span></p>\r\n</li>\r\n</ul>",
+        "AchievementParts": [
+          {
+            "AchievementAid": {
+              "IsAllowed": true,
+              "IsRequired": false,
+              "Description": "<ul><li>Term papers must be written without anyone else&#x0027;s help and in accordance with the known quotation standards, and they must contain a declaration of authorship.</li><li>The documentation of sources (quotations, bibliography) has to be done throughout and consistently in accordance with the APA or MLA standards. The indications of the sources of information taken over verbatim or in paraphrase (quotations) must be integrated into the text in accordance with the precepts of the applicable quotation standard, while informative and bibliographical notes must be added as footnotes (recommendations and standards can be found, for example, in METZGER, C. (2017), Lern- und Arbeitsstrategien (12th ed., Cornelsen Schweiz).</li><li>For any work written at the HSG, the indication of the page numbers both according to the MLA and the APA standard is never optional.</li><li>Where there are no page numbers in sources, precise references must be provided in a different way: titles of chapters or sections, section numbers, acts, scenes, verses, etc.</li><li>For papers in law, the legal standard is recommended (by way of example, cf. FORSTMOSER, P., OGOREK R. et SCHINDLER B. (2018, Juristisches Arbeiten: Eine Anleitung für Studierende (6. Auflage), Zürich: Schulthess, or the recommendations of the Law School).</li></ul>",
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "Term papers",
+              "Id": 9,
+              "State": 0
+            },
+            "AchievementForm": {
+              "IsCentral": false,
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "Group examination paper (all given the same grades)",
+              "Id": 15,
+              "State": 0
+            },
+            "AchievementPartKeyId": 23318,
+            "AdditionalAid": "Open Book - Compulsory and Complementary Literature for the course\r\nrecommended",
+            "AnswerLanguages": [
+              {
+                "Code": "EN",
+                "IsRequestedLanguage": true,
+                "Language": "en",
+                "ShortName": "English",
+                "Id": 2,
+                "State": 0
+              }
+            ],
+            "Duration": null,
+            "QuestionLanguages": [
+              {
+                "Code": "EN",
+                "IsRequestedLanguage": true,
+                "Language": "en",
+                "ShortName": "English",
+                "Id": 2,
+                "State": 0
+              }
+            ],
+            "Remark": null,
+            "SortOrder": 1,
+            "Weightage": 4000,
+            "Id": "2fd04bff-089a-41b3-b666-750e68556208",
+            "State": 0
+          },
+          {
+            "AchievementAid": {
+              "IsAllowed": true,
+              "IsRequired": false,
+              "Description": "<ul><li>Term papers must be written without anyone else&#x0027;s help and in accordance with the known quotation standards, and they must contain a declaration of authorship.</li><li>The documentation of sources (quotations, bibliography) has to be done throughout and consistently in accordance with the APA or MLA standards. The indications of the sources of information taken over verbatim or in paraphrase (quotations) must be integrated into the text in accordance with the precepts of the applicable quotation standard, while informative and bibliographical notes must be added as footnotes (recommendations and standards can be found, for example, in METZGER, C. (2017), Lern- und Arbeitsstrategien (12th ed., Cornelsen Schweiz).</li><li>For any work written at the HSG, the indication of the page numbers both according to the MLA and the APA standard is never optional.</li><li>Where there are no page numbers in sources, precise references must be provided in a different way: titles of chapters or sections, section numbers, acts, scenes, verses, etc.</li><li>For papers in law, the legal standard is recommended (by way of example, cf. FORSTMOSER, P., OGOREK R. et SCHINDLER B. (2018, Juristisches Arbeiten: Eine Anleitung für Studierende (6. Auflage), Zürich: Schulthess, or the recommendations of the Law School).</li></ul>",
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "Term papers",
+              "Id": 9,
+              "State": 0
+            },
+            "AchievementForm": {
+              "IsCentral": false,
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "examination paper written at home (individual)",
+              "Id": 14,
+              "State": 0
+            },
+            "AchievementPartKeyId": 23319,
+            "AdditionalAid": "Open Book - Compulsory and Complementary Literature for the Course\r\nrecommended",
+            "AnswerLanguages": [
+              {
+                "Code": "EN",
+                "IsRequestedLanguage": true,
+                "Language": "en",
+                "ShortName": "English",
+                "Id": 2,
+                "State": 0
+              }
+            ],
+            "Duration": null,
+            "QuestionLanguages": [
+              {
+                "Code": "EN",
+                "IsRequestedLanguage": true,
+                "Language": "en",
+                "ShortName": "English",
+                "Id": 2,
+                "State": 0
+              }
+            ],
+            "Remark": null,
+            "SortOrder": 2,
+            "Weightage": 6000,
+            "Id": "01fe7ffa-f486-4353-9b3d-50e7bee59213",
+            "State": 0
+          }
+        ],
+        "Comment": null,
+        "CourseAdditionalInformation": "<p style=\"color: #333333;\"><span style=\"color: #333333;\">Susana\r\nBatel, Social Psychologist, PhD in University Institute of Lisbon\r\nISCTE-IUL), where she is an integrated researcher at the Center for\r\nPsychological Research and Social Intervention since 2013. Her\r\nresearch adopts a critical approach to the understanding of\r\npeople's responses to energy infrastructures, public participation\r\nin environmental decision-making and people's&nbsp;relations with\r\nplace and landscapes.&nbsp;</span></p>",
+        "CourseContent": "<p style=\"margin: 4pt 0cm; color: #333333;\">In the last decades,\r\nthe deployment of sustainable energy generation and demand\r\nmanagement infrastructures and technologies has been considered as\r\none of the main mitigation measures of climate change. However,\r\nsocial opposition and resistance are often found. As such, the\r\nanalysis of the social dimension of those infrastructures and\r\ntechnologies has been internationally recognized&nbsp;as crucial\r\nfor the success of that mitigation measure. However, both at\r\nacademic and corporate levels, the practices that examine and\r\ndiscuss the social dimension of the deployment of those\r\ninfrastructures in a critical, interdisciplinary and integrative\r\nway, are still scarce.</p>\r\n\r\n<p style=\"margin: 4pt 0cm; color: #333333;\"><strong style=\"color: #333333;\"><span style=\"color: #333333;\">&nbsp;</span></strong></p>\r\n\r\n<p style=\"margin: 4pt 0cm; color: #333333;\"><span style=\"color: #333333;\">This course aims to equip students with\r\ntheoretical frameworks and analytical tools that allow them\r\nto:</span></p>\r\n\r\n<ul style=\"list-style-type: disc; color: #333333;\">\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\">Identify\r\nand understand the main psychosocial, cultural and geographical\r\nprocesses that are associated with different responses to energy\r\ntechnologies;</span></li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\">Identify\r\nwhen and how to intervene in order to overcome potential social\r\nbarriers to the deployment of sustainable energy\r\ntechnologies;</span></li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\">Develop a\r\ncritical perspective on the social acceptance of energy\r\ntechnologies and sustainability, and be able to apply it at\r\nacademic and business levels.</span></li>\r\n</ul>",
+        "CourseLanguage": {
+          "Code": "EN",
+          "IsRequestedLanguage": true,
+          "Language": "en",
+          "ShortName": "English",
+          "Id": 2,
+          "State": 0
+        },
+        "CourseLiterature": "<ul style=\"list-style-type: disc; color: #333333;\">\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\"><strong>Compulsory literature</strong></span> \r\n\r\n<p style=\"color: #333333;\"><span style=\"color: #333333;\"><span style=\"color: #333333;\">- Batel, S. (2018). A critical discussion\r\nof research on the social acceptance of renewable energy generation\r\nand associated infrastructures and an agenda for the\r\nfuture.&nbsp;</span> <em style=\"color: #333333;\"><span style=\"color: #333333;\">Journal of Environmental Policy &amp;\r\nPlanning</span></em><span style=\"color: #333333;\">, 20,\r\n356-369.</span></span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"color: #333333;\">- Batel.,\r\nS., Devine-Wright, P., &amp; Tangeland, T. (2013). Social\r\nacceptance of low carbon energy and associated infrastructures: A\r\ncritical discussion. <em style=\"color: #333333;\">Energy Policy,\r\n58</em>, 1-5.</span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"color: #333333;\"><span style=\"color: #333333;\">- Bridge, G., Bouzarovski, S., Bradshaw,\r\nM., &amp; Eyre, N. (2013). Geographies of energy transition: Space,\r\nplace and the low-carbon economy.&nbsp;</span> <em style=\"color: #333333;\"><span style=\"color: #333333;\">Energy\r\nPolicy</span></em><span style=\"color: #333333;\">,&nbsp;</span> <em style=\"color: #333333;\"><span style=\"color: #333333;\">53</span></em><span style=\"color: #333333;\">,\r\n331-340.</span></span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"color: #333333;\">- Geels,\r\nF. W., Schwanen, T., Sorrell, S., Jenkins, K., &amp; Sovacool, B.\r\nK. (2018). Reducing energy demand through low carbon innovation: A\r\nsociotechnical transitions perspective and thirteen research\r\ndebates.&nbsp;<em style=\"color: #333333;\">Energy Research &amp;\r\nSocial Science</em>,&nbsp;<em style=\"color: #333333;\">40</em>,\r\n23-35.</span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"color: #333333;\">-\r\nHargreaves, T., Nye, M., &amp; Burgess, J. (2010). Making energy\r\nvisible: A qualitative field study of how householders interact\r\nwith feedback from smart energy monitors.&nbsp;<em style=\"color: #333333;\">Energy Policy</em>,&nbsp;<em style=\"color: #333333;\">38</em>(10), 6111-6119.</span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"color: #333333;\"><span style=\"color: #333333;\">- Nada&iuml;, A., &amp; Labussi&egrave;re,\r\nO. (2017).</span> <span style=\"color: #333333;\">Exhaustible-renewable wind power (pp.306-329). In\r\nS. Bouzarovski, M. Pasqualetti, &amp; V. Broto (Eds.) (2017). <em style=\"color: #333333;\">The Routledge Research Companion to Energy\r\nGeographies</em>. Routledge.</span></span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"color: #333333;\">- Walker\r\net al., (2011). Symmetries, expectations, dynamics and contexts: A\r\nframework for understanding public engagement with renewable energy\r\nprojects (pp.1-14). In <em style=\"color: #333333;\">Renewable Energy\r\nand the Public: From NIMBY to Participation,</em> P. Devine-Wright\r\n(Ed.) (2011). Routledge.</span></p>\r\n\r\n<p style=\"color: #333333;\"><span style=\"color: #333333;\">&nbsp;</span></p>\r\n</li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\"><strong>Additional\r\nliterature</strong></span></li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\"><strong>-&nbsp;</strong></span> Aitken, M.\r\n(2010). Why we still don't understand the social aspects of wind\r\npower: A critique of key assumptions within the\r\nliterature.&nbsp;<em>Energy Policy</em>,&nbsp;<em>38</em>(4),\r\n1834-1841.</li>\r\n\r\n<li style=\"color: #333333;\">- Batel, S., &amp; Devine<span style=\"text-align: justify;\">&#8208;</span><span style=\"text-align: justify;\">Wright, P. (2017). Energy colonialism and\r\nthe role of the global in local responses to new energy\r\ninfrastructures in the UK: A critical and exploratory empirical\r\nanalysis.&nbsp;</span> <em style=\"text-align: justify;\">Antipode</em><span style=\"text-align: justify;\">,&nbsp;</span> <em style=\"text-align: justify;\">49</em><span style=\"text-align: justify;\">(1), 3-22.</span></li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"text-align: justify;\">-&nbsp;</span> Bouzarovski, <span style=\"text-align: justify;\">S.,</span> <span style=\"text-align: justify;\">Pasqualetti,</span> <span style=\"text-align: justify;\">M.,</span> <span style=\"text-align: justify;\">&amp; Broto</span><span style=\"text-align: justify;\">, V.</span> <span style=\"text-align: justify;\">(Eds.) (2017). <em>The Routledge Research\r\nCompanion to Energy Geographies</em>. Routledge</span><span style=\"text-align: justify;\">.</span></li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"text-align: justify;\">-&nbsp;</span> Castree, N. (2014). <em style=\"text-align: justify;\">Making Sense of Nature</em><span style=\"text-align: justify;\">. Routledge.</span></li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"text-align: justify;\">-&nbsp;</span> Cowell, R., Bristow, G.,\r\n&amp; Munday, M. (2011). Acceptance, acceptability and\r\nenvironmental justice: the role of community benefits in wind\r\nenergy development.&nbsp;<em style=\"text-align: justify;\">Journal\r\nof Environmental Planning and Management</em><span style=\"text-align: justify;\">,&nbsp;</span> <em style=\"text-align: justify;\">54</em><span style=\"text-align: justify;\">(4), 539-557.</span></li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"text-align: justify;\">-&nbsp;</span> Devine-Wright<span style=\"text-align: justify;\">, P.</span> <span style=\"text-align: justify;\">(Ed.) (2011). <em>Renewable Energy and the\r\nPublic: From NIMBY to Participation</em></span><em style=\"text-align: justify;\">.</em> <span style=\"text-align: justify;\">Routledge</span><span style=\"text-align: justify;\">.</span></li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"text-align: justify;\">-&nbsp;</span> Ellis, G., Barry, J., &amp;\r\nRobinson, C. (2007). Many ways to say 'no', different ways to say\r\n'yes': applying Q-methodology to understand public acceptance of\r\nwind farm proposals.&nbsp;<em>Journal of Environmental Planning and\r\nManagement</em>,&nbsp;<em>50</em>(4), 517-551.</li>\r\n\r\n<li style=\"color: #333333;\">- Gismondi, M. (2018). Historizicing\r\ntransitions: The value of historical theory to energy transition.\r\n<em>Energy Research and Social Science, 38</em>, 193-198.</li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\">-\r\nRudolph, D., &amp; Kirkegaard, J. (2018). Making space for wind\r\nfarms: Practices of territorial stigmatization in rural\r\nDenmark.&nbsp;</span> <em style=\"color: #333333; text-align: justify;\">Antipode</em>&nbsp;</li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"text-align: justify;\">-&nbsp;</span> Shove, E. (2017). What is\r\nwrong with energy efficiency?.&nbsp;<em style=\"text-align: justify;\">Building Research &amp;\r\nInformation</em><span style=\"text-align: justify;\">,\r\n1-11.</span></li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"text-align: justify;\">-&nbsp;</span> Shove, E., Pantzar, M., &amp;\r\nWatson, M. (2012). <em style=\"text-align: justify;\">The Dynamics of\r\nSocial Practice: Everyday Life and How it Changes</em><span style=\"text-align: justify;\">. Sage.</span></li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"text-align: justify;\">-&nbsp;</span> Walker, G. (2009). Beyond\r\ndistribution and proximity: exploring the multiple spatialities of\r\nenvironmental justice.&nbsp;<em style=\"text-align: justify;\">Antipode</em><span style=\"text-align: justify;\">,&nbsp;</span> <em style=\"text-align: justify;\">41</em><span style=\"text-align: justify;\">(4), 614-636.</span></li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"text-align: justify;\">-&nbsp;</span> Wolsink, M. (2018).\r\nCo-production in distributed generation: renewable energy and\r\ncreating space for fitting infrastructure within\r\nlandscapes.&nbsp;<em>Landscape Research</em>, <em>43</em>,\r\n542-561.</li>\r\n\r\n<li style=\"color: #333333;\">- W&uuml;stenhagen, R., Wolsink, M.,\r\n&amp; B&uuml;rer, M. J. (2007). Social acceptance of renewable\r\nenergy innovation: An introduction to the concept.&nbsp;<em>Energy\r\nPolicy</em>,&nbsp;<em>35</em>(5), 2683-2691.&nbsp;</li>\r\n</ul>",
+        "CoursePrerequisites": "<p>Knowledge of English (min. Advanced - C1 / IELTS 6-7 TOEFL iBT\r\n60-93 TOEIC 751-900 CAMBRIDGE CAE)</p>",
+        "CourseStructure": "<p>Block course structured as follows:</p>\r\n\r\n<ul>\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\">1. Social\r\nacceptance: A critical introduction to a field of research</span> \r\n\r\n<ul style=\"list-style-type: circle; color: #333333;\">\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\">Energy\r\ninfrastructure as socio-technical systems: generation, supply and\r\nuse</span></li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\">Social\r\nacceptance as a field of research</span></li>\r\n</ul>\r\n</li>\r\n</ul>\r\n\r\n<ul style=\"list-style-type: disc; color: #333333;\">\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\">2. Social\r\nacceptance at the production level: Psycho-social, cultural and\r\ngeographical processes associated with the social acceptance of\r\nsustainable energy generation technologies and\r\ninfrastructures</span> \r\n\r\n<ul style=\"list-style-type: circle; color: #333333;\">\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\">The Low\r\nCarbon Transition: social acceptance as a concept</span></li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\">Going\r\nbeyond NIMBY (<em style=\"color: #333333;\">Not in My Backyard</em>):\r\nTheoretical perspectives</span></li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\">Energy\r\nlandscapes, justice and politics</span></li>\r\n</ul>\r\n</li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\">3. Social\r\nacceptance at the consumption level: Psycho-social, cultural and\r\ngeographical processes associated with demand side management\r\ntechnologies</span> \r\n\r\n<ul style=\"list-style-type: circle; color: #333333;\">\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\">Energy\r\nand everyday practices: Theoretical perspectives</span></li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\">From the\r\nenergy consumer to the energy prosumer: Challenges and\r\nbarriers</span></li>\r\n</ul>\r\n</li>\r\n\r\n<li style=\"color: #333333;\"><span style=\"color: #333333;\">4. Which\r\nenergy infrastructures are sustainable? Discussing energy justice,\r\ndemocratic practices and scale.</span></li>\r\n</ul>\r\n\r\n<p style=\"margin-bottom: 0.0001pt; color: #333333;\"><span style=\"color: #333333;\">Contextual Studies are considered part of</span>\r\n<strong style=\"color: #333333;\"><span style=\"color: #333333;\">Contact Learning</span></strong><span style=\"color: #333333;\">; thus, taking part properly implies</span>\r\n<strong style=\"color: #333333;\"><span style=\"color: #333333;\">regular attendance</span></strong><span style=\"color: #333333;\">. It is the students</span><span style=\"color: #333333;\">&#697;</span> <span style=\"color: #333333;\">own\r\nresponsibility to ensure that there is</span> <strong style=\"color: #333333;\"><span style=\"color: #333333;\">no timetable\r\nclash</span></strong> <span style=\"color: #333333;\">between the\r\ncourses they have chosen.</span></p>",
+        "Courses": [
+          {
+            "CourseLanguage": {
+              "Code": "EN",
+              "IsRequestedLanguage": true,
+              "Language": "de",
+              "ShortName": "Englisch",
+              "Id": 2,
+              "State": 0
+            },
+            "CourseNumber": "4,750,1.00",
+            "EventSkeletonKeyId": 6063,
+            "Lecturers": [
+              {
+                "DisplayName": "Batel Susana",
+                "Email": "susana.batel@unisg.ch",
+                "FirstName": "Susana",
+                "HsgEntityId": "49c9a543-b9a1-43e0-98bb-cd8a95a79736",
+                "HumanTypes": "Angestellter, Dozent",
+                "LastName": "Batel",
+                "Prefix": null,
+                "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/49c9a543-b9a1-43e0-98bb-cd8a95a79736",
+                "Type": {
+                  "IsRemovable": false,
+                  "IsSelectable": true,
+                  "Description": "Dozent(in)",
+                  "IsRequestedLanguage": false,
+                  "Language": "de",
+                  "ShortName": "Dozent(in)",
+                  "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+                  "State": 0
+                },
+                "Id": "a4be00d1-32aa-4a6d-af0a-13c43d0533e4",
+                "State": 0
+              }
+            ],
+            "TimeTableLink": "https://tools.unisg.ch/Url/csntrn",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "Verantwortung/Responsibility: Social Acceptance of Sustainable Energy Infrastructures",
+            "Id": "86bea77e-efbe-413e-9b9b-85595a878a79",
+            "State": 0
+          }
+        ],
+        "Credits": 300,
+        "Editors": [
+          {
+            "DisplayName": "Batel Susana",
+            "Email": "susana.batel@unisg.ch",
+            "FirstName": "Susana",
+            "HsgEntityId": "49c9a543-b9a1-43e0-98bb-cd8a95a79736",
+            "HumanTypes": "Angestellter, Dozent",
+            "LastName": "Batel",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/49c9a543-b9a1-43e0-98bb-cd8a95a79736",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": true,
+              "Description": "Dozent(in)",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "Dozent(in)",
+              "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+              "State": 0
+            },
+            "Id": "a4be00d1-32aa-4a6d-af0a-13c43d0533e4",
+            "State": 0
+          },
+          {
+            "DisplayName": "Horstmann Jan-Philipp",
+            "Email": "jan.horstmann@unisg.ch",
+            "FirstName": "Jan-Philipp",
+            "HsgEntityId": "6d5b1555-ed6b-41a4-907d-9c0ea8e96eeb",
+            "HumanTypes": "Angestellter, Dozent, Student",
+            "LastName": "Horstmann",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/6d5b1555-ed6b-41a4-907d-9c0ea8e96eeb",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "d06ec092-46cb-4f5f-adb1-772b1de03a42",
+            "State": 0
+          },
+          {
+            "DisplayName": "Kalkofen Rupert",
+            "Email": "rupert.kalkofen@unisg.ch",
+            "FirstName": "Rupert",
+            "HsgEntityId": "285c9844-6f8b-421d-8943-cf50c2b50896",
+            "HumanTypes": "Angestellter, Dozent",
+            "LastName": "Kalkofen",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/285c9844-6f8b-421d-8943-cf50c2b50896",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "afa63a17-4597-40e8-b016-74bbbe97d48b",
+            "State": 0
+          },
+          {
+            "DisplayName": "Lambrecht Karen",
+            "Email": "karen.lambrecht@unisg.ch",
+            "FirstName": "Karen",
+            "HsgEntityId": "1d1fef19-f67b-4375-8252-ddf2b723e356",
+            "HumanTypes": "Angestellter, Dozent",
+            "LastName": "Lambrecht",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/1d1fef19-f67b-4375-8252-ddf2b723e356",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "ee3eecc4-fc4b-4bdc-ad96-7ac858a0bdd0",
+            "State": 0
+          },
+          {
+            "DisplayName": "Michelmann Judith",
+            "Email": "judith.michelmann@unisg.ch",
+            "FirstName": "Judith",
+            "HsgEntityId": "820245ca-5600-4079-b01e-330ceeb43dc2",
+            "HumanTypes": "Angestellter, Dozent",
+            "LastName": "Michelmann",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/820245ca-5600-4079-b01e-330ceeb43dc2",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "02c43440-1bd0-4147-815c-d8fdf387257b",
+            "State": 0
+          },
+          {
+            "DisplayName": "Partschefeld Yves Bernd",
+            "Email": "yves.partschefeld@unisg.ch",
+            "FirstName": "Yves Bernd",
+            "HsgEntityId": "fc333ca1-74ad-442f-bb5e-77cb42951795",
+            "HumanTypes": "Alumni, Angestellter, Dozent, Student",
+            "LastName": "Partschefeld",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/fc333ca1-74ad-442f-bb5e-77cb42951795",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL",
+              "Id": "be74068e-f0aa-442a-aca4-34e38a639c36",
+              "State": 0
+            },
+            "Id": "1db46e8c-3e8f-4c4f-b507-3c47c48c56dd",
+            "State": 0
+          },
+          {
+            "DisplayName": "Rudolph Sophie",
+            "Email": "sophie.rudolph@unisg.ch",
+            "FirstName": "Sophie",
+            "HsgEntityId": "75a03768-fbac-45f2-b928-4b81ade15a23",
+            "HumanTypes": "Angestellter, Dozent",
+            "LastName": "Rudolph",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/75a03768-fbac-45f2-b928-4b81ade15a23",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "7cf9e7dc-6378-4253-b409-550da2e4c166",
+            "State": 0
+          }
+        ],
+        "LastModification": "2019-01-15T17:11:40.897",
+        "LastModifier": "HPachera",
+        "MajorVersion": 1,
+        "MinorVersion": 0,
+        "PublishedDate": "2019-01-15T17:11:40.883",
+        "SpecialInformation": null,
+        "AchievementFormStatus": {
+          "IsCentral": false,
+          "IsDeCentral": true,
+          "IsRegulated": false,
+          "Description": "Free Decentral",
+          "IsRequestedLanguage": false,
+          "Language": "en",
+          "ShortName": "F/D",
+          "Id": "88d032b7-f64f-486b-8a31-30ba2f41fd76",
+          "State": 0
+        },
+        "AchievementResponsible": {
+          "DisplayName": "Batel Susana",
+          "Email": "susana.batel@unisg.ch",
+          "FirstName": "Susana",
+          "HsgEntityId": "49c9a543-b9a1-43e0-98bb-cd8a95a79736",
+          "HumanTypes": "Angestellter, Dozent",
+          "LastName": "Batel",
+          "Prefix": null,
+          "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/49c9a543-b9a1-43e0-98bb-cd8a95a79736",
+          "Type": {
+            "IsRemovable": false,
+            "IsSelectable": true,
+            "Description": "Dozent(in)",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "Dozent(in)",
+            "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+            "State": 0
+          },
+          "Id": "a4be00d1-32aa-4a6d-af0a-13c43d0533e4",
+          "State": 0
+        },
+        "AdministrationLeader": {
+          "DisplayName": "Partschefeld Yves Bernd",
+          "Email": "yves.partschefeld@unisg.ch",
+          "FirstName": "Yves Bernd",
+          "HsgEntityId": "fc333ca1-74ad-442f-bb5e-77cb42951795",
+          "HumanTypes": "Alumni, Angestellter, Dozent, Student",
+          "LastName": "Partschefeld",
+          "Prefix": null,
+          "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/fc333ca1-74ad-442f-bb5e-77cb42951795",
+          "Type": {
+            "IsRemovable": false,
+            "IsSelectable": false,
+            "Description": "ADL",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "ADL",
+            "Id": "be74068e-f0aa-442a-aca4-34e38a639c36",
+            "State": 0
+          },
+          "Id": "1db46e8c-3e8f-4c4f-b507-3c47c48c56dd",
+          "State": 0
+        },
+        "ChangedFields": null,
+        "CourseNumber": "4,750",
+        "CourseResponsible": {
+          "DisplayName": "Batel Susana",
+          "Email": "susana.batel@unisg.ch",
+          "FirstName": "Susana",
+          "HsgEntityId": "49c9a543-b9a1-43e0-98bb-cd8a95a79736",
+          "HumanTypes": "Angestellter, Dozent",
+          "LastName": "Batel",
+          "Prefix": null,
+          "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/49c9a543-b9a1-43e0-98bb-cd8a95a79736",
+          "Type": {
+            "IsRemovable": false,
+            "IsSelectable": true,
+            "Description": "Dozent(in)",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "Dozent(in)",
+            "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+            "State": 0
+          },
+          "Id": "a4be00d1-32aa-4a6d-af0a-13c43d0533e4",
+          "State": 0
+        },
+        "HasPublishedVersion": true,
+        "HsgEntityId": "31caffbd-f002-47c8-bbca-9ecbf71324d3",
+        "IsFulfilled": true,
+        "IsNewVersion": false,
+        "PublicationLanguageId": "62200638-7edd-46cb-819f-f9bc1f6646ec",
+        "SemesterId": "3a953bf8-9074-4221-82ae-febbe5edffab",
+        "StudyItemId": 5347,
+        "WorkflowState": 5,
+        "Description": null,
+        "IsRequestedLanguage": true,
+        "Language": "en",
+        "ShortName": "Verantwortung/Responsibility: Social Acceptance of Sustainable Energy Infrastructures",
+        "Id": "cc199c5b-5e37-4355-8625-0ff09b96430d",
+        "State": 0
+      },
+      {
+        "AchievementContent": "<p>The final mark is determined by three components:</p>\r\n\r\n<ul>\r\n<li>34% Final written exam.</li>\r\n\r\n<li>33% Central Bank presentation. In small groups, students choose\r\na country of the Eurozone and simulate that they are in charge of\r\nthe country's central bank in 2009, right at the beginning of the\r\nGreat Recession. They then use their Monetary Policy knowledge to\r\nassess the different policy options for the selected country.</li>\r\n\r\n<li>33% Book chapter. In small groups, students choose one of the\r\ntopics in the List of Topics covered in the course. For the\r\nselected topic, the group designs and writes a book chapter aimed\r\nat teaching the concepts covered in that section of the course to\r\nother undergraduate students.</li>\r\n</ul>",
+        "AchievementLiterature": "Lecture slides and academic papers available in StudyNet by the end\r\nof the semester.",
+        "AchievementParts": [
+          {
+            "AchievementAid": {
+              "IsAllowed": true,
+              "IsRequired": false,
+              "Description": "<ul><li>Term papers must be written without anyone else&#x0027;s help and in accordance with the known quotation standards, and they must contain a declaration of authorship.</li><li>The documentation of sources (quotations, bibliography) has to be done throughout and consistently in accordance with the APA or MLA standards. The indications of the sources of information taken over verbatim or in paraphrase (quotations) must be integrated into the text in accordance with the precepts of the applicable quotation standard, while informative and bibliographical notes must be added as footnotes (recommendations and standards can be found, for example, in METZGER, C. (2017), Lern- und Arbeitsstrategien (12th ed., Cornelsen Schweiz).</li><li>For any work written at the HSG, the indication of the page numbers both according to the MLA and the APA standard is never optional.</li><li>Where there are no page numbers in sources, precise references must be provided in a different way: titles of chapters or sections, section numbers, acts, scenes, verses, etc.</li><li>For papers in law, the legal standard is recommended (by way of example, cf. FORSTMOSER, P., OGOREK R. et SCHINDLER B. (2018, Juristisches Arbeiten: Eine Anleitung für Studierende (6. Auflage), Zürich: Schulthess, or the recommendations of the Law School).</li></ul>",
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "Term papers",
+              "Id": 9,
+              "State": 0
+            },
+            "AchievementForm": {
+              "IsCentral": false,
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "Group examination paper (all given the same grades)",
+              "Id": 15,
+              "State": 0
+            },
+            "AchievementPartKeyId": 23093,
+            "AdditionalAid": "--",
+            "AnswerLanguages": [
+              {
+                "Code": "EN",
+                "IsRequestedLanguage": true,
+                "Language": "en",
+                "ShortName": "English",
+                "Id": 2,
+                "State": 0
+              }
+            ],
+            "Duration": null,
+            "QuestionLanguages": [
+              {
+                "Code": "EN",
+                "IsRequestedLanguage": true,
+                "Language": "en",
+                "ShortName": "English",
+                "Id": 2,
+                "State": 0
+              }
+            ],
+            "Remark": "Book chapter",
+            "SortOrder": 1,
+            "Weightage": 3300,
+            "Id": "95e086ee-239c-434b-a8f2-242127337b20",
+            "State": 0
+          },
+          {
+            "AchievementAid": {
+              "IsAllowed": true,
+              "IsRequired": false,
+              "Description": "No examination-aid rule is necessary for such examination types. The rules and regulations of the University of St. Gallen apply in a subsidiary fashion.",
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "Practical examination",
+              "Id": 8,
+              "State": 0
+            },
+            "AchievementForm": {
+              "IsCentral": false,
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "Presentation (in groups - all given the same grades)",
+              "Id": 10,
+              "State": 0
+            },
+            "AchievementPartKeyId": 23094,
+            "AdditionalAid": "--",
+            "AnswerLanguages": [
+              {
+                "Code": "EN",
+                "IsRequestedLanguage": true,
+                "Language": "en",
+                "ShortName": "English",
+                "Id": 2,
+                "State": 0
+              }
+            ],
+            "Duration": null,
+            "QuestionLanguages": [
+              {
+                "Code": "EN",
+                "IsRequestedLanguage": true,
+                "Language": "en",
+                "ShortName": "English",
+                "Id": 2,
+                "State": 0
+              }
+            ],
+            "Remark": "Central bank presentation",
+            "SortOrder": 2,
+            "Weightage": 3300,
+            "Id": "3fef2847-7265-41f7-9a87-22d12b6f7fe5",
+            "State": 0
+          },
+          {
+            "AchievementAid": {
+              "IsAllowed": true,
+              "IsRequired": true,
+              "Description": "The use of aids is limited; any additional aids permitted are exhaustively listed under &quot;Supplementary aids&quot;. Basically, the following is applicable: <ul><li>At such examinations, all the pocket calculators of the Texas Instruments TI-30 series and mono- or bilingual dictionaries (no subject-specific dictionaries) without hand-written notes are admissible. Any other pocket calculator models and any electronic dictionaries are inadmissible.</li><li>In addition, any type of communication, as well as any electronic devices that can be programmed and are capable of communication such as notebooks, tablets, PDAs, mobile telephones and others, are inadmissible.</li><li>Students are themselves responsible for the procurement of examination aids.</li></ul>",
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "Extended Closed Book",
+              "Id": 2,
+              "State": 0
+            },
+            "AchievementForm": {
+              "IsCentral": false,
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "Written examination",
+              "Id": 13,
+              "State": 0
+            },
+            "AchievementPartKeyId": 23095,
+            "AdditionalAid": "--",
+            "AnswerLanguages": [
+              {
+                "Code": "EN",
+                "IsRequestedLanguage": true,
+                "Language": "en",
+                "ShortName": "English",
+                "Id": 2,
+                "State": 0
+              }
+            ],
+            "Duration": "60 mins.",
+            "QuestionLanguages": [
+              {
+                "Code": "EN",
+                "IsRequestedLanguage": true,
+                "Language": "en",
+                "ShortName": "English",
+                "Id": 2,
+                "State": 0
+              }
+            ],
+            "Remark": "Final written exam",
+            "SortOrder": 3,
+            "Weightage": 3400,
+            "Id": "026e9b5a-857b-40cc-8795-03210c59ddcf",
+            "State": 0
+          }
+        ],
+        "Comment": null,
+        "CourseAdditionalInformation": "Arnau Valladares&#8208;Esteban is an Assistant Professor at the\r\nDepartment of Economics and the Swiss Institue for Empirical\r\nEconomic Research of the University of St. Gallen. His research\r\nfocuses on labour issues, such as labour market dynamics or\r\nearnings inequality, approached from a macro&#8208;quantitative\r\nperspective. After completing a PhD in Economics at the Barcelona\r\nGraduate School of Economics, Arnau worked as a Lecturer in\r\nEconomics at the University of Southampton.",
+        "CourseContent": "<p>The main objective of this course is to help undergraduate\r\nstudents bridge the gap between the Monetary Policy concepts and\r\nmodels typically seen at the undergraduate level (namely, the\r\nIS&#8208;LM Model) and the New Keynesian frameworks used at the\r\ngraduate level and at central banks.</p>\r\n\r\n<p>In order to achieve this objective, students are first given a\r\nnon&#8208;mathematical overview of the main concepts that are\r\nrelevant to understand how central banks work nowadays: inflation\r\ntargeting, an interest rate rule, etc. The presentation of these\r\nconcepts is complemented with a look at the data and\r\nreal&#8208;life examples of Monetary Policy discussions. Once\r\nstudents are familiar with these new concepts, the course turns\r\ninto looking at two models: a cash&#8208;in&#8208;advance model and\r\na simplified New&#8208;Keynesian model.</p>\r\n\r\n<div style=\"color: #333333;\"><strong>List of topics</strong></div>\r\n\r\n<ol>\r\n<li>An overview of Modern Monetary Policy. \r\n\r\n<ol>\r\n<li>What We Know.</li>\r\n\r\n<li>From Money Targeting to Inflation Targeting.</li>\r\n\r\n<li>Time Inconsistency, Credibility, and Independence.</li>\r\n\r\n<li>The Effects of Inflation.</li>\r\n\r\n<li>Unconventional Monetary Policy.</li>\r\n\r\n<li>Monetary Policy and Financial Stability.</li>\r\n</ol>\r\n</li>\r\n\r\n<li>Micro&#8208;funded Monetary Policy. \r\n\r\n<ol>\r\n<li>A Cash&#8208;in&#8208;Advance Model.</li>\r\n\r\n<li>Optimal Policy in a CIA Model: the Friedman rule.</li>\r\n</ol>\r\n</li>\r\n\r\n<li>A New Keynesian Model. \r\n\r\n<ol>\r\n<li>Monopolistic Competition: Sticky Prices.</li>\r\n\r\n<li>The Dixit&#8208;Stiglitz Framework.</li>\r\n\r\n<li>The Rotemberg Many Costs.</li>\r\n\r\n<li>Monetary Policy in the New Keynesian Model.</li>\r\n</ol>\r\n</li>\r\n</ol>",
+        "CourseLanguage": {
+          "Code": "EN",
+          "IsRequestedLanguage": true,
+          "Language": "en",
+          "ShortName": "English",
+          "Id": 2,
+          "State": 0
+        },
+        "CourseLiterature": "<p>The main sources of information are the lecture slides\r\n(available at StudyNet during the semester). The lecture slides are\r\nbased on different chapters of the following textbooks:</p>\r\n\r\n<ul>\r\n<li>Olivier Blanchard, \"<em>Macroeconomics</em>\", 7th Edition.\r\nPearson.</li>\r\n\r\n<li>Sanjay K. Chugh, \"<em>Modern Macroeconomics</em>\", 1st Edition.\r\nMIT Press.</li>\r\n</ul>\r\n\r\n<p>During the semester academic articles and newspaper articles\r\nthat complement the material in the lectures will be made available\r\nat StudyNet.</p>",
+        "CoursePrerequisites": "Students need to be familiar with very basic concepts of Monetary\r\nEconomics such as the uses of money or the Quantity Theory of\r\nMoney. A good understanding of the IS&#8208;LM model is\r\nrecommended. The ability to solve maximisation problems using the\r\nmethod of Lagrange multipliers is desirable.",
+        "CourseStructure": "The course consists of weekly lectures.",
+        "Courses": [
+          {
+            "CourseLanguage": {
+              "Code": "EN",
+              "IsRequestedLanguage": true,
+              "Language": "de",
+              "ShortName": "Englisch",
+              "Id": 2,
+              "State": 0
+            },
+            "CourseNumber": "6,246,1.00",
+            "EventSkeletonKeyId": 608,
+            "Lecturers": [
+              {
+                "DisplayName": "Valladares-Esteban Arnau",
+                "Email": "arnau.valladares-esteban@unisg.ch",
+                "FirstName": "Arnau",
+                "HsgEntityId": "c112ebe3-3e95-4dd5-862d-99191f65720f",
+                "HumanTypes": "Angestellter, Dozent",
+                "LastName": "Valladares-Esteban",
+                "Prefix": null,
+                "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/c112ebe3-3e95-4dd5-862d-99191f65720f",
+                "Type": {
+                  "IsRemovable": false,
+                  "IsSelectable": true,
+                  "Description": "Dozent(in)",
+                  "IsRequestedLanguage": false,
+                  "Language": "de",
+                  "ShortName": "Dozent(in)",
+                  "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+                  "State": 0
+                },
+                "Id": "4aa2123d-1520-4ee2-92df-de65e5d6d361",
+                "State": 0
+              }
+            ],
+            "TimeTableLink": "https://tools.unisg.ch/Url/csj2wd",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "Monetary Economics",
+            "Id": "3e403222-8eba-4442-8b9f-ac4cb5ced4e7",
+            "State": 0
+          }
+        ],
+        "Credits": 300,
+        "Editors": [
+          {
+            "DisplayName": "De Martin Romina",
+            "Email": "romina.demartin@unisg.ch",
+            "FirstName": "Romina",
+            "HsgEntityId": "538f7f34-276a-48db-9165-95d811a3e6f1",
+            "HumanTypes": "Angestellter",
+            "LastName": "De Martin",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/538f7f34-276a-48db-9165-95d811a3e6f1",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL",
+              "Id": "be74068e-f0aa-442a-aca4-34e38a639c36",
+              "State": 0
+            },
+            "Id": "d9f21a72-5cf2-41b0-80de-032de6004abe",
+            "State": 0
+          },
+          {
+            "DisplayName": "Deboys Nicola",
+            "Email": "nicola.deboys@unisg.ch",
+            "FirstName": "Nicola",
+            "HsgEntityId": "8b81db8e-0b9b-4edc-94bf-e5af1849fcb2",
+            "HumanTypes": "Angestellter",
+            "LastName": "Deboys",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/8b81db8e-0b9b-4edc-94bf-e5af1849fcb2",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "c74e8f81-e342-4e16-8eb7-a1ea24257542",
+            "State": 0
+          },
+          {
+            "DisplayName": "Fürrutter Martina",
+            "Email": "martina.fuerrutter@unisg.ch",
+            "FirstName": "Martina",
+            "HsgEntityId": "d6913298-2c49-4cae-9220-d825571a045a",
+            "HumanTypes": "Angestellter, Dozent, Student",
+            "LastName": "Fürrutter",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/d6913298-2c49-4cae-9220-d825571a045a",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "d6da278d-aa74-4340-ab4a-aefa5e613a2a",
+            "State": 0
+          },
+          {
+            "DisplayName": "Pischulti Vanessa",
+            "Email": "vanessa.pischulti@unisg.ch",
+            "FirstName": "Vanessa",
+            "HsgEntityId": "5eaa09bc-769e-486d-85ec-9104793c11f1",
+            "HumanTypes": "Angestellter",
+            "LastName": "Pischulti",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/5eaa09bc-769e-486d-85ec-9104793c11f1",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "74dccb02-c740-477d-a31c-ac1b7fab493d",
+            "State": 0
+          },
+          {
+            "DisplayName": "Valladares-Esteban Arnau",
+            "Email": "arnau.valladares-esteban@unisg.ch",
+            "FirstName": "Arnau",
+            "HsgEntityId": "c112ebe3-3e95-4dd5-862d-99191f65720f",
+            "HumanTypes": "Angestellter, Dozent",
+            "LastName": "Valladares-Esteban",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/c112ebe3-3e95-4dd5-862d-99191f65720f",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": true,
+              "Description": "Dozent(in)",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "Dozent(in)",
+              "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+              "State": 0
+            },
+            "Id": "4aa2123d-1520-4ee2-92df-de65e5d6d361",
+            "State": 0
+          }
+        ],
+        "LastModification": "2019-01-07T15:42:31.61",
+        "LastModifier": "HPachera",
+        "MajorVersion": 1,
+        "MinorVersion": 0,
+        "PublishedDate": "2019-01-07T15:42:31.577",
+        "SpecialInformation": null,
+        "AchievementFormStatus": {
+          "IsCentral": false,
+          "IsDeCentral": true,
+          "IsRegulated": false,
+          "Description": "Free Decentral",
+          "IsRequestedLanguage": false,
+          "Language": "en",
+          "ShortName": "F/D",
+          "Id": "88d032b7-f64f-486b-8a31-30ba2f41fd76",
+          "State": 0
+        },
+        "AchievementResponsible": {
+          "DisplayName": "Valladares-Esteban Arnau",
+          "Email": "arnau.valladares-esteban@unisg.ch",
+          "FirstName": "Arnau",
+          "HsgEntityId": "c112ebe3-3e95-4dd5-862d-99191f65720f",
+          "HumanTypes": "Angestellter, Dozent",
+          "LastName": "Valladares-Esteban",
+          "Prefix": null,
+          "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/c112ebe3-3e95-4dd5-862d-99191f65720f",
+          "Type": {
+            "IsRemovable": false,
+            "IsSelectable": true,
+            "Description": "Dozent(in)",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "Dozent(in)",
+            "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+            "State": 0
+          },
+          "Id": "4aa2123d-1520-4ee2-92df-de65e5d6d361",
+          "State": 0
+        },
+        "AdministrationLeader": {
+          "DisplayName": "De Martin Romina",
+          "Email": "romina.demartin@unisg.ch",
+          "FirstName": "Romina",
+          "HsgEntityId": "538f7f34-276a-48db-9165-95d811a3e6f1",
+          "HumanTypes": "Angestellter",
+          "LastName": "De Martin",
+          "Prefix": null,
+          "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/538f7f34-276a-48db-9165-95d811a3e6f1",
+          "Type": {
+            "IsRemovable": false,
+            "IsSelectable": false,
+            "Description": "ADL",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "ADL",
+            "Id": "be74068e-f0aa-442a-aca4-34e38a639c36",
+            "State": 0
+          },
+          "Id": "d9f21a72-5cf2-41b0-80de-032de6004abe",
+          "State": 0
+        },
+        "ChangedFields": null,
+        "CourseNumber": "6,246",
+        "CourseResponsible": {
+          "DisplayName": "Valladares-Esteban Arnau",
+          "Email": "arnau.valladares-esteban@unisg.ch",
+          "FirstName": "Arnau",
+          "HsgEntityId": "c112ebe3-3e95-4dd5-862d-99191f65720f",
+          "HumanTypes": "Angestellter, Dozent",
+          "LastName": "Valladares-Esteban",
+          "Prefix": null,
+          "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/c112ebe3-3e95-4dd5-862d-99191f65720f",
+          "Type": {
+            "IsRemovable": false,
+            "IsSelectable": true,
+            "Description": "Dozent(in)",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "Dozent(in)",
+            "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+            "State": 0
+          },
+          "Id": "4aa2123d-1520-4ee2-92df-de65e5d6d361",
+          "State": 0
+        },
+        "HasPublishedVersion": true,
+        "HsgEntityId": "a988d38c-51a3-4646-a625-3758129b2a1c",
+        "IsFulfilled": true,
+        "IsNewVersion": false,
+        "PublicationLanguageId": "62200638-7edd-46cb-819f-f9bc1f6646ec",
+        "SemesterId": "3a953bf8-9074-4221-82ae-febbe5edffab",
+        "StudyItemId": 1923,
+        "WorkflowState": 5,
+        "Description": null,
+        "IsRequestedLanguage": true,
+        "Language": "en",
+        "ShortName": "Monetary Economics",
+        "Id": "5e4c78d7-ab96-4d15-bd57-57881780ba7c",
+        "State": 0
+      },
+      {
+        "AchievementContent": "<div>All parts of the course.</div>",
+        "AchievementLiterature": "<div>- Handouts/slides (available via StudyNet before the next\r\nlecture). The complete set of handouts will be available online\r\nbefore May 31, 2019.</div>\r\n\r\n<div>- Lecture notes, including examples, cases and derivations\r\nprovided during the lecture.</div>\r\n\r\n<div>- Relevant book chapters of the above referenced\r\ntextbook.</div>\r\n\r\n<div>- Articles available via StudyNet (before May 31, 2019)</div>",
+        "AchievementParts": [
+          {
+            "AchievementAid": {
+              "IsAllowed": true,
+              "IsRequired": true,
+              "Description": "The use of aids is limited; any additional aids permitted are exhaustively listed under &quot;Supplementary aids&quot;. Basically, the following is applicable: <ul><li>At such examinations, all the pocket calculators of the Texas Instruments TI-30 series and mono- or bilingual dictionaries (no subject-specific dictionaries) without hand-written notes are admissible. Any other pocket calculator models and any electronic dictionaries are inadmissible.</li><li>In addition, any type of communication, as well as any electronic devices that can be programmed and are capable of communication such as notebooks, tablets, PDAs, mobile telephones and others, are inadmissible.</li><li>Students are themselves responsible for the procurement of examination aids.</li></ul>",
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "Extended Closed Book",
+              "Id": 2,
+              "State": 0
+            },
+            "AchievementForm": {
+              "IsCentral": true,
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "Written examination",
+              "Id": 12,
+              "State": 0
+            },
+            "AchievementPartKeyId": 23187,
+            "AdditionalAid": "No examination aids",
+            "AnswerLanguages": [
+              {
+                "Code": "EN",
+                "IsRequestedLanguage": true,
+                "Language": "en",
+                "ShortName": "English",
+                "Id": 2,
+                "State": 0
+              }
+            ],
+            "Duration": "90 mins.",
+            "QuestionLanguages": [
+              {
+                "Code": "EN",
+                "IsRequestedLanguage": true,
+                "Language": "en",
+                "ShortName": "English",
+                "Id": 2,
+                "State": 0
+              }
+            ],
+            "Remark": null,
+            "SortOrder": 1,
+            "Weightage": 10000,
+            "Id": "731ad959-f683-41f7-bd4b-f067ba71ab6f",
+            "State": 0
+          }
+        ],
+        "Comment": null,
+        "CourseAdditionalInformation": null,
+        "CourseContent": "<div>1. Short summary: The course covers relevant aspects of health\r\neconomics. Special focus will be on the demand of health (i.e. the\r\npatient) and the supply of medical goods and services (i.e. general\r\npractitioners, hospitals and the pharmaceutical\r\nindustry).&nbsp;</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>2. Description:&nbsp;</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>&nbsp; &nbsp; The following topics will be discussed (may\r\nslightly change):</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>&nbsp; &nbsp; 1. Demand for health and health care</div>\r\n\r\n<div>&nbsp; &nbsp; 2. Supply of health care</div>\r\n\r\n<div>&nbsp; &nbsp; 3. Information economics (in particular, health\r\ninsurance)</div>\r\n\r\n<div>&nbsp; &nbsp; 4. Economics of health innovation</div>\r\n\r\n<div>&nbsp; &nbsp; 5. Health policy</div>\r\n\r\n<div>&nbsp; &nbsp; 6. Public health economics</div>\r\n\r\n<div>&nbsp; &nbsp; 7. Behavioral aspects of health economics</div>\r\n\r\n<div>&nbsp;&nbsp; &nbsp;&nbsp;</div>\r\n\r\n<div>&nbsp; &nbsp; a) Qualification: The course will equip students\r\nwith a basic understanding of key concepts in health\r\neconomics.&nbsp;</div>\r\n\r\n<div>&nbsp; &nbsp;&nbsp;</div>\r\n\r\n<div>&nbsp; &nbsp; b) Methods: Microeconomic and behavioral\r\neconomic theory is applied to health-related issues.</div>\r\n\r\n<div>&nbsp; &nbsp;&nbsp;</div>\r\n\r\n<div>&nbsp; &nbsp; c) Development of competencies in the course: At\r\nthe end of the course, students should be able to critically\r\ndiscuss possible policy measures and economic incentives in the\r\ncontext of health economics. They should be able to apply health\r\neconomic concepts to solve case studies.</div>\r\n\r\n<div>&nbsp; &nbsp;&nbsp;</div>\r\n\r\n<div>&nbsp; &nbsp; d) Course objectives: Students can evaluate the\r\neffects of policy measures (e.g. the implementation of new\r\nincentive schemes for general practitioners) and they can use\r\neconomic reasoning for defend their point of view. Students are\r\nalso able to interpret empirical results and understand how\r\neconomic theory can help to make a case.</div>",
+        "CourseLanguage": {
+          "Code": "EN",
+          "IsRequestedLanguage": true,
+          "Language": "en",
+          "ShortName": "English",
+          "Id": 2,
+          "State": 0
+        },
+        "CourseLiterature": "<div>Bhattacharya, Jay; Hyde, Timothy; Tu, Peter (2014) - \"Health\r\nEconomics\", Palgrave Macmillan, ISBN 978-1-137-02996-6 (available\r\nvia Skriptekommision/SKK).</div>",
+        "CoursePrerequisites": "<div>- \"Microeconomics II\" (supply and demand, cost and production,\r\nmarket structures, substitution and income effect, elasticity,\r\netc)</div>\r\n\r\n<div>- \"Empirical Economic Research\" or \"Statistics\" (summary\r\nstatistics, hypothesis testing, interpretation of regression\r\noutput, causality/correlation, etc)</div>\r\n\r\n<div>&nbsp;</div>",
+        "CourseStructure": "<div>- Weekly lecture</div>",
+        "Courses": [
+          {
+            "CourseLanguage": {
+              "Code": "EN",
+              "IsRequestedLanguage": true,
+              "Language": "de",
+              "ShortName": "Englisch",
+              "Id": 2,
+              "State": 0
+            },
+            "CourseNumber": "6,260,1.00",
+            "EventSkeletonKeyId": 1846,
+            "Lecturers": [
+              {
+                "DisplayName": "Epper Thomas",
+                "Email": "thomas.epper@unisg.ch",
+                "FirstName": "Thomas",
+                "HsgEntityId": "1bc2347c-186e-45bc-9e0f-3375618e4013",
+                "HumanTypes": "Angestellter, Dozent",
+                "LastName": "Epper",
+                "Prefix": null,
+                "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/1bc2347c-186e-45bc-9e0f-3375618e4013",
+                "Type": {
+                  "IsRemovable": false,
+                  "IsSelectable": true,
+                  "Description": "Dozent(in)",
+                  "IsRequestedLanguage": false,
+                  "Language": "de",
+                  "ShortName": "Dozent(in)",
+                  "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+                  "State": 0
+                },
+                "Id": "29898c56-4a0f-4da5-a30a-79891f28d830",
+                "State": 0
+              }
+            ],
+            "TimeTableLink": "https://tools.unisg.ch/Url/csozz8",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "Health Economics (Major Economics)",
+            "Id": "5d53e947-1ecc-44df-bab5-eeff68bb44b5",
+            "State": 0
+          }
+        ],
+        "Credits": 300,
+        "Editors": [
+          {
+            "DisplayName": "De Martin Romina",
+            "Email": "romina.demartin@unisg.ch",
+            "FirstName": "Romina",
+            "HsgEntityId": "538f7f34-276a-48db-9165-95d811a3e6f1",
+            "HumanTypes": "Angestellter",
+            "LastName": "De Martin",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/538f7f34-276a-48db-9165-95d811a3e6f1",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL",
+              "Id": "be74068e-f0aa-442a-aca4-34e38a639c36",
+              "State": 0
+            },
+            "Id": "d9f21a72-5cf2-41b0-80de-032de6004abe",
+            "State": 0
+          },
+          {
+            "DisplayName": "Deboys Nicola",
+            "Email": "nicola.deboys@unisg.ch",
+            "FirstName": "Nicola",
+            "HsgEntityId": "8b81db8e-0b9b-4edc-94bf-e5af1849fcb2",
+            "HumanTypes": "Angestellter",
+            "LastName": "Deboys",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/8b81db8e-0b9b-4edc-94bf-e5af1849fcb2",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "c74e8f81-e342-4e16-8eb7-a1ea24257542",
+            "State": 0
+          },
+          {
+            "DisplayName": "Epper Thomas",
+            "Email": "thomas.epper@unisg.ch",
+            "FirstName": "Thomas",
+            "HsgEntityId": "1bc2347c-186e-45bc-9e0f-3375618e4013",
+            "HumanTypes": "Angestellter, Dozent",
+            "LastName": "Epper",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/1bc2347c-186e-45bc-9e0f-3375618e4013",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": true,
+              "Description": "Dozent(in)",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "Dozent(in)",
+              "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+              "State": 0
+            },
+            "Id": "29898c56-4a0f-4da5-a30a-79891f28d830",
+            "State": 0
+          },
+          {
+            "DisplayName": "Fürrutter Martina",
+            "Email": "martina.fuerrutter@unisg.ch",
+            "FirstName": "Martina",
+            "HsgEntityId": "d6913298-2c49-4cae-9220-d825571a045a",
+            "HumanTypes": "Angestellter, Dozent, Student",
+            "LastName": "Fürrutter",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/d6913298-2c49-4cae-9220-d825571a045a",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "d6da278d-aa74-4340-ab4a-aefa5e613a2a",
+            "State": 0
+          },
+          {
+            "DisplayName": "Pischulti Vanessa",
+            "Email": "vanessa.pischulti@unisg.ch",
+            "FirstName": "Vanessa",
+            "HsgEntityId": "5eaa09bc-769e-486d-85ec-9104793c11f1",
+            "HumanTypes": "Angestellter",
+            "LastName": "Pischulti",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/5eaa09bc-769e-486d-85ec-9104793c11f1",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "74dccb02-c740-477d-a31c-ac1b7fab493d",
+            "State": 0
+          }
+        ],
+        "LastModification": "2019-01-07T15:46:43.887",
+        "LastModifier": "HPachera",
+        "MajorVersion": 1,
+        "MinorVersion": 0,
+        "PublishedDate": "2019-01-07T15:46:43.873",
+        "SpecialInformation": null,
+        "AchievementFormStatus": {
+          "IsCentral": true,
+          "IsDeCentral": false,
+          "IsRegulated": false,
+          "Description": "Free Central",
+          "IsRequestedLanguage": false,
+          "Language": "en",
+          "ShortName": "F/C",
+          "Id": "84cc9714-4c84-4dfb-942c-285f23102981",
+          "State": 0
+        },
+        "AchievementResponsible": {
+          "DisplayName": "Epper Thomas",
+          "Email": "thomas.epper@unisg.ch",
+          "FirstName": "Thomas",
+          "HsgEntityId": "1bc2347c-186e-45bc-9e0f-3375618e4013",
+          "HumanTypes": "Angestellter, Dozent",
+          "LastName": "Epper",
+          "Prefix": null,
+          "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/1bc2347c-186e-45bc-9e0f-3375618e4013",
+          "Type": {
+            "IsRemovable": false,
+            "IsSelectable": true,
+            "Description": "Dozent(in)",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "Dozent(in)",
+            "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+            "State": 0
+          },
+          "Id": "29898c56-4a0f-4da5-a30a-79891f28d830",
+          "State": 0
+        },
+        "AdministrationLeader": {
+          "DisplayName": "De Martin Romina",
+          "Email": "romina.demartin@unisg.ch",
+          "FirstName": "Romina",
+          "HsgEntityId": "538f7f34-276a-48db-9165-95d811a3e6f1",
+          "HumanTypes": "Angestellter",
+          "LastName": "De Martin",
+          "Prefix": null,
+          "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/538f7f34-276a-48db-9165-95d811a3e6f1",
+          "Type": {
+            "IsRemovable": false,
+            "IsSelectable": false,
+            "Description": "ADL",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "ADL",
+            "Id": "be74068e-f0aa-442a-aca4-34e38a639c36",
+            "State": 0
+          },
+          "Id": "d9f21a72-5cf2-41b0-80de-032de6004abe",
+          "State": 0
+        },
+        "ChangedFields": null,
+        "CourseNumber": "6,260",
+        "CourseResponsible": {
+          "DisplayName": "Epper Thomas",
+          "Email": "thomas.epper@unisg.ch",
+          "FirstName": "Thomas",
+          "HsgEntityId": "1bc2347c-186e-45bc-9e0f-3375618e4013",
+          "HumanTypes": "Angestellter, Dozent",
+          "LastName": "Epper",
+          "Prefix": null,
+          "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/1bc2347c-186e-45bc-9e0f-3375618e4013",
+          "Type": {
+            "IsRemovable": false,
+            "IsSelectable": true,
+            "Description": "Dozent(in)",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "Dozent(in)",
+            "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+            "State": 0
+          },
+          "Id": "29898c56-4a0f-4da5-a30a-79891f28d830",
+          "State": 0
+        },
+        "HasPublishedVersion": true,
+        "HsgEntityId": "4344d175-b7b9-4f75-b2a9-21c60a6f3bec",
+        "IsFulfilled": true,
+        "IsNewVersion": false,
+        "PublicationLanguageId": "62200638-7edd-46cb-819f-f9bc1f6646ec",
+        "SemesterId": "3a953bf8-9074-4221-82ae-febbe5edffab",
+        "StudyItemId": 1959,
+        "WorkflowState": 5,
+        "Description": "*",
+        "IsRequestedLanguage": true,
+        "Language": "en",
+        "ShortName": "Health Economics (Major Economics)",
+        "Id": "b9b03a5c-dea9-4e4d-b9f3-4d6b64f2c07b",
+        "State": 0
+      },
+      {
+        "AchievementContent": "Wortschatz und Grammatikthemen der Lektionen 4&#8209;7, 9&#8209;10\r\ndes Lehrbuches &#698;Mittelpunkt neu B2&#698;",
+        "AchievementLiterature": "<p>Mittelpunkt neu B2, Albert Daniels u.a., Klett Verlag Stuttgart\r\n2012.</p>\r\n\r\n<p>Arbeitsbl&auml;tter aus dem dazu geh&ouml;renden Arbeitsbuch auf\r\nstudynet (relevantes Datum: 16.5.19).</p>",
+        "AchievementParts": [
+          {
+            "AchievementAid": {
+              "IsAllowed": true,
+              "IsRequired": true,
+              "Description": "<ul><li>Nur die im &quot;Hilfsmittelzusatz&quot; abschliessend aufgeführten Hilfsmittel und Wörterbücher (ohne Handnotizen) sind zugelassen.</li><li>Nicht erlaubt sind jegliche Art von Kommunikation sowie sämtliche programmierbaren und kommunikationsfähigen elektronischen Geräte wie Notebooks, Tablets, PDAs, Mobiltelefone und weitere. </li><li>Die Beschaffung der Hilfsmittel ist ausschliesslich Sache der Studierenden.</li></ul>",
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "Sprachprüfungen",
+              "Id": 5,
+              "State": 0
+            },
+            "AchievementForm": {
+              "IsCentral": false,
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "mündliche Sprachprüfung (einzeln in Gruppen - individuelle Benotung)",
+              "Id": 45,
+              "State": 0
+            },
+            "AchievementPartKeyId": 18520,
+            "AdditionalAid": "Keine",
+            "AnswerLanguages": [
+              {
+                "Code": "DE",
+                "IsRequestedLanguage": true,
+                "Language": "de",
+                "ShortName": "Deutsch",
+                "Id": 1,
+                "State": 0
+              }
+            ],
+            "Duration": "15 Min.",
+            "QuestionLanguages": [
+              {
+                "Code": "DE",
+                "IsRequestedLanguage": true,
+                "Language": "de",
+                "ShortName": "Deutsch",
+                "Id": 1,
+                "State": 0
+              }
+            ],
+            "Remark": null,
+            "SortOrder": 0,
+            "Weightage": 5000,
+            "Id": "30659756-21e3-4d43-b107-0f37d493571c",
+            "State": 0
+          },
+          {
+            "AchievementAid": {
+              "IsAllowed": true,
+              "IsRequired": true,
+              "Description": "<ul><li>Nur die im &quot;Hilfsmittelzusatz&quot; abschliessend aufgeführten Hilfsmittel und Wörterbücher (ohne Handnotizen) sind zugelassen.</li><li>Nicht erlaubt sind jegliche Art von Kommunikation sowie sämtliche programmierbaren und kommunikationsfähigen elektronischen Geräte wie Notebooks, Tablets, PDAs, Mobiltelefone und weitere. </li><li>Die Beschaffung der Hilfsmittel ist ausschliesslich Sache der Studierenden.</li></ul>",
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "Sprachprüfungen",
+              "Id": 5,
+              "State": 0
+            },
+            "AchievementForm": {
+              "IsCentral": false,
+              "IsRequestedLanguage": false,
+              "Language": null,
+              "ShortName": "schriftliche Sprachprüfung",
+              "Id": 43,
+              "State": 0
+            },
+            "AchievementPartKeyId": 18521,
+            "AdditionalAid": "Keine",
+            "AnswerLanguages": [
+              {
+                "Code": "DE",
+                "IsRequestedLanguage": true,
+                "Language": "de",
+                "ShortName": "Deutsch",
+                "Id": 1,
+                "State": 0
+              }
+            ],
+            "Duration": "60 Min.",
+            "QuestionLanguages": [
+              {
+                "Code": "DE",
+                "IsRequestedLanguage": true,
+                "Language": "de",
+                "ShortName": "Deutsch",
+                "Id": 1,
+                "State": 0
+              }
+            ],
+            "Remark": null,
+            "SortOrder": 0,
+            "Weightage": 5000,
+            "Id": "7b0d40fd-fb62-424d-8bd8-76111890d536",
+            "State": 0
+          }
+        ],
+        "Comment": null,
+        "CourseAdditionalInformation": "Dr. Elke Breitenfeldt: Germanistik&#8209;Studium in T&uuml;bingen\r\nund G&ouml;ttingen, DAAD&#8209;Lektorat in Santiago de Chile, 2009\r\nPromotion im Fachbereich \"Deutsch als Fremdsprache\" mit einem\r\nkulturwissenschaftlichen Thema: \"Kultur lesen. Literarische\r\nPaarkonstellationen als Text\".",
+        "CourseContent": "Vertiefung der m&uuml;ndlichen und schriftlichen Sprachkenntnisse\r\nauf das Zielniveau B2 Themen: Die Welt der Dinge; Kooperieren;\r\nArbeit im In&#8209; und Ausland; Raus in die Welt; Wissen und\r\nK&ouml;nnen; Leistungen",
+        "CourseLanguage": {
+          "Code": "DE",
+          "IsRequestedLanguage": true,
+          "Language": "de",
+          "ShortName": "Deutsch",
+          "Id": 1,
+          "State": 0
+        },
+        "CourseLiterature": "Mittelpunkt neu B2, Albert Daniels u.a., Klett Verlag 2012.",
+        "CoursePrerequisites": "<p>Niveau: B1</p>\r\n\r\n<p><span style=\"color: #333333;\">Der Sprachenraster gem&auml;ss dem\r\nEurop&auml;ischen Referenzrahmen f&uuml;r Sprachen unter</span> <a target=\"_blank\" style=\"color: #333333;\" tabindex=\"-1\" href=\"https://europass.cedefop.europa.eu/de/resources/european-language-levels-cefr\">\r\n<span style=\"color: #333333;\">https://europass.cedefop.europa.eu/de/resources/european-language-levels-cefr</span></a>\r\n<span style=\"color: #333333;\">hilft Ihnen, falls Sie Ihr\r\nSprachkenntnisse einsch&auml;tzen wollen.</span></p>",
+        "CourseStructure": "<p>Zwei Mal 90 Minuten w&ouml;chentlich Pr&auml;senz;\r\nselbstst&auml;ndiges Verfassen schriftlicher Texte: Abgabe und\r\nKorrektur im Verlauf des Semesters</p>\r\n\r\n<p>Das Kontextstudium ist der Form nach\r\n<strong>Kontaktstudium</strong>; zum ordnungsgem&auml;ssen Besuch\r\nder Veranstaltung geh&ouml;rt daher <strong>die regelm&auml;ssige\r\nTeilnahme</strong>. Die Studierenden m&uuml;ssen selbst darauf\r\nachten, dass sich Veranstaltungstermine <strong>nicht\r\n&uuml;berschneiden.</strong></p>",
+        "Courses": [
+          {
+            "CourseLanguage": {
+              "Code": "DE",
+              "IsRequestedLanguage": true,
+              "Language": "de",
+              "ShortName": "Deutsch",
+              "Id": 1,
+              "State": 0
+            },
+            "CourseNumber": "8,980,1.00",
+            "EventSkeletonKeyId": 3833,
+            "Lecturers": [
+              {
+                "DisplayName": "Breitenfeldt Elke",
+                "Email": "elke.breitenfeldt@unisg.ch",
+                "FirstName": "Elke",
+                "HsgEntityId": "4460c01c-d7a6-47ba-a2a6-59c809c2a6c0",
+                "HumanTypes": "Angestellter, Dozent",
+                "LastName": "Breitenfeldt",
+                "Prefix": null,
+                "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/4460c01c-d7a6-47ba-a2a6-59c809c2a6c0",
+                "Type": {
+                  "IsRemovable": false,
+                  "IsSelectable": true,
+                  "Description": "Dozent(in)",
+                  "IsRequestedLanguage": false,
+                  "Language": "de",
+                  "ShortName": "Dozent(in)",
+                  "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+                  "State": 0
+                },
+                "Id": "5a0d71d9-423b-4012-9bb8-cb5cc242932e",
+                "State": 0
+              }
+            ],
+            "TimeTableLink": "https://tools.unisg.ch/Url/cs7m4w",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "Deutsch B2",
+            "Id": "632da1a0-45d2-4772-b7ed-b69c7e5adacb",
+            "State": 0
+          }
+        ],
+        "Credits": 400,
+        "Editors": [
+          {
+            "DisplayName": "Breitenfeldt Elke",
+            "Email": "elke.breitenfeldt@unisg.ch",
+            "FirstName": "Elke",
+            "HsgEntityId": "4460c01c-d7a6-47ba-a2a6-59c809c2a6c0",
+            "HumanTypes": "Angestellter, Dozent",
+            "LastName": "Breitenfeldt",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/4460c01c-d7a6-47ba-a2a6-59c809c2a6c0",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": true,
+              "Description": "Dozent(in)",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "Dozent(in)",
+              "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+              "State": 0
+            },
+            "Id": "5a0d71d9-423b-4012-9bb8-cb5cc242932e",
+            "State": 0
+          },
+          {
+            "DisplayName": "Horstmann Jan-Philipp",
+            "Email": "jan.horstmann@unisg.ch",
+            "FirstName": "Jan-Philipp",
+            "HsgEntityId": "6d5b1555-ed6b-41a4-907d-9c0ea8e96eeb",
+            "HumanTypes": "Angestellter, Dozent, Student",
+            "LastName": "Horstmann",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/6d5b1555-ed6b-41a4-907d-9c0ea8e96eeb",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "d06ec092-46cb-4f5f-adb1-772b1de03a42",
+            "State": 0
+          },
+          {
+            "DisplayName": "Kalkofen Rupert",
+            "Email": "rupert.kalkofen@unisg.ch",
+            "FirstName": "Rupert",
+            "HsgEntityId": "285c9844-6f8b-421d-8943-cf50c2b50896",
+            "HumanTypes": "Angestellter, Dozent",
+            "LastName": "Kalkofen",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/285c9844-6f8b-421d-8943-cf50c2b50896",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "afa63a17-4597-40e8-b016-74bbbe97d48b",
+            "State": 0
+          },
+          {
+            "DisplayName": "Lambrecht Karen",
+            "Email": "karen.lambrecht@unisg.ch",
+            "FirstName": "Karen",
+            "HsgEntityId": "1d1fef19-f67b-4375-8252-ddf2b723e356",
+            "HumanTypes": "Angestellter, Dozent",
+            "LastName": "Lambrecht",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/1d1fef19-f67b-4375-8252-ddf2b723e356",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "ee3eecc4-fc4b-4bdc-ad96-7ac858a0bdd0",
+            "State": 0
+          },
+          {
+            "DisplayName": "Michelmann Judith",
+            "Email": "judith.michelmann@unisg.ch",
+            "FirstName": "Judith",
+            "HsgEntityId": "820245ca-5600-4079-b01e-330ceeb43dc2",
+            "HumanTypes": "Angestellter, Dozent",
+            "LastName": "Michelmann",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/820245ca-5600-4079-b01e-330ceeb43dc2",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "02c43440-1bd0-4147-815c-d8fdf387257b",
+            "State": 0
+          },
+          {
+            "DisplayName": "Partschefeld Yves Bernd",
+            "Email": "yves.partschefeld@unisg.ch",
+            "FirstName": "Yves Bernd",
+            "HsgEntityId": "fc333ca1-74ad-442f-bb5e-77cb42951795",
+            "HumanTypes": "Alumni, Angestellter, Dozent, Student",
+            "LastName": "Partschefeld",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/fc333ca1-74ad-442f-bb5e-77cb42951795",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL",
+              "Id": "be74068e-f0aa-442a-aca4-34e38a639c36",
+              "State": 0
+            },
+            "Id": "1db46e8c-3e8f-4c4f-b507-3c47c48c56dd",
+            "State": 0
+          },
+          {
+            "DisplayName": "Rudolph Sophie",
+            "Email": "sophie.rudolph@unisg.ch",
+            "FirstName": "Sophie",
+            "HsgEntityId": "75a03768-fbac-45f2-b928-4b81ade15a23",
+            "HumanTypes": "Angestellter, Dozent",
+            "LastName": "Rudolph",
+            "Prefix": null,
+            "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/75a03768-fbac-45f2-b928-4b81ade15a23",
+            "Type": {
+              "IsRemovable": false,
+              "IsSelectable": false,
+              "Description": "ADL StV",
+              "IsRequestedLanguage": false,
+              "Language": "de",
+              "ShortName": "ADL StV",
+              "Id": "3a58a1b7-0519-4891-9736-a60b914df74c",
+              "State": 0
+            },
+            "Id": "7cf9e7dc-6378-4253-b409-550da2e4c166",
+            "State": 0
+          }
+        ],
+        "LastModification": "2019-01-10T10:12:01.263",
+        "LastModifier": "HPachera",
+        "MajorVersion": 1,
+        "MinorVersion": 0,
+        "PublishedDate": "2019-01-10T10:12:01.243",
+        "SpecialInformation": null,
+        "AchievementFormStatus": {
+          "IsCentral": false,
+          "IsDeCentral": true,
+          "IsRegulated": true,
+          "Description": "Vorgegeben-Dezentral",
+          "IsRequestedLanguage": false,
+          "Language": "de",
+          "ShortName": "V/D",
+          "Id": "32b7e57a-164d-4b6e-9fcc-5e23a9d4a3af",
+          "State": 0
+        },
+        "AchievementResponsible": {
+          "DisplayName": "Breitenfeldt Elke",
+          "Email": "elke.breitenfeldt@unisg.ch",
+          "FirstName": "Elke",
+          "HsgEntityId": "4460c01c-d7a6-47ba-a2a6-59c809c2a6c0",
+          "HumanTypes": "Angestellter, Dozent",
+          "LastName": "Breitenfeldt",
+          "Prefix": null,
+          "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/4460c01c-d7a6-47ba-a2a6-59c809c2a6c0",
+          "Type": {
+            "IsRemovable": false,
+            "IsSelectable": true,
+            "Description": "Dozent(in)",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "Dozent(in)",
+            "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+            "State": 0
+          },
+          "Id": "5a0d71d9-423b-4012-9bb8-cb5cc242932e",
+          "State": 0
+        },
+        "AdministrationLeader": {
+          "DisplayName": "Partschefeld Yves Bernd",
+          "Email": "yves.partschefeld@unisg.ch",
+          "FirstName": "Yves Bernd",
+          "HsgEntityId": "fc333ca1-74ad-442f-bb5e-77cb42951795",
+          "HumanTypes": "Alumni, Angestellter, Dozent, Student",
+          "LastName": "Partschefeld",
+          "Prefix": null,
+          "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/fc333ca1-74ad-442f-bb5e-77cb42951795",
+          "Type": {
+            "IsRemovable": false,
+            "IsSelectable": false,
+            "Description": "ADL",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "ADL",
+            "Id": "be74068e-f0aa-442a-aca4-34e38a639c36",
+            "State": 0
+          },
+          "Id": "1db46e8c-3e8f-4c4f-b507-3c47c48c56dd",
+          "State": 0
+        },
+        "ChangedFields": null,
+        "CourseNumber": "7,980 | 8,980",
+        "CourseResponsible": {
+          "DisplayName": "Breitenfeldt Elke",
+          "Email": "elke.breitenfeldt@unisg.ch",
+          "FirstName": "Elke",
+          "HsgEntityId": "4460c01c-d7a6-47ba-a2a6-59c809c2a6c0",
+          "HumanTypes": "Angestellter, Dozent",
+          "LastName": "Breitenfeldt",
+          "Prefix": null,
+          "ProfileLink": "https://www.unisg.ch/Personenverzeichnis/4460c01c-d7a6-47ba-a2a6-59c809c2a6c0",
+          "Type": {
+            "IsRemovable": false,
+            "IsSelectable": true,
+            "Description": "Dozent(in)",
+            "IsRequestedLanguage": false,
+            "Language": "de",
+            "ShortName": "Dozent(in)",
+            "Id": "425d2f50-fe31-442b-bd7c-4d65e379c20c",
+            "State": 0
+          },
+          "Id": "5a0d71d9-423b-4012-9bb8-cb5cc242932e",
+          "State": 0
+        },
+        "HasPublishedVersion": true,
+        "HsgEntityId": "93807781-7ef2-48d0-8372-4cd838c51caa",
+        "IsFulfilled": true,
+        "IsNewVersion": false,
+        "PublicationLanguageId": "b5736458-2f85-45c6-9285-8eef12f21ed6",
+        "SemesterId": "3a953bf8-9074-4221-82ae-febbe5edffab",
+        "StudyItemId": 4683,
+        "WorkflowState": 5,
+        "Description": null,
+        "IsRequestedLanguage": true,
+        "Language": "de",
+        "ShortName": "Deutsch B2",
+        "Id": "8012b988-43ce-415a-9ba0-564e85a06844",
+        "State": 0
+      }
+    ],
+    "DefaultResponseHeader": {
+      "RequestedLanguage": "de",
+      "ResponsedLanguage": "de",
+      "SecurityToken": "eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE1NTA5MzU1MTMsImV4cCI6MTU1MDk1MzU3MywiaXNzIjoiaHR0cDovL2ludGVncmF0aW9uLnVuaXNnLmNoIiwiYXVkIjoiZjEyYzkxMzQtMmIwOC00ZjM2LTlkYzItNzUwMDJiZjYyYWExIn0.HIqfgbOEI21IVYKfvCvP7Il5vWohPpiddQqDoga_Of0"
+    },
+    "Messages": null
+  },
+  "JsonRequestBehavior": 0,
+  "MaxJsonLength": null,
+  "RecursionLimit": null
+}

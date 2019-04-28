@@ -1,6 +1,10 @@
 import mongoose from 'mongoose'
 
 const reviewSchema = new mongoose.Schema({
+  course: {
+    type: mongoose.Schema.Types.ObjectId,
+    require: true
+  },
   rating: {
     overall: {
       type: Number,
