@@ -1,9 +1,10 @@
 
 import Review from '../model/Review'
+import Course from '../model/Course'
 
-function buildReviewObj(review){
-  return {
-    course: review.courseID,
+async function buildReviewObj(review){
+   return {
+    course: await getID(review.courseID),
     rating: {
       overall: review.overall,
       workload: review.workload,
@@ -20,11 +21,18 @@ function buildReviewObj(review){
     professorReviews: []
   }
 }
+async function getID(hsgId){
+  return Course.findOne({hsgId: hsgId}, '_id', function(err, courseId){
+    console.log(courseId)
+    return courseId._id
+  })
 
+}
 //*******MAIN************
-function reviewController (req, res) {
+async function reviewController (req, res) {
     const review = req.body
-    const reviewObj = buildReviewObj(review)
+    const reviewObj = await buildReviewObj(review)
+
     try {
       Review.create(reviewObj)
       res.sendStatus(200)

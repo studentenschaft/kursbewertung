@@ -2,8 +2,8 @@ import mongoose from 'mongoose'
 
 const reviewSchema = new mongoose.Schema({
   course: {
-    // type: mongoose.Schema.Types.ObjectId,
-    type: String,
+    type: mongoose.Schema.Types.ObjectId,
+    //type: String,
     require: true
   },
   rating: {
