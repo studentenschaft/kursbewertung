@@ -5,18 +5,14 @@ const lecturerSchema = new mongoose.Schema({
     type: String,
     required: true
   },
-  name: {
+  firstName: {
     type: String,
     required: true
   },
-  picture: {
+  lastName: {
     type: String,
-    required: false
+    required: true
   },
-  description: {
-    type: String,
-    required: false
-  }
 })
 
-export default mongoose.model('lecturer', professorSchema)
+export default mongoose.model('lecturer', lecturerSchema)

@@ -2,6 +2,7 @@ import requestify from 'requestify'
 
 import Course from '../model/Course'
 import Student from '../model/Student'
+import Lecturer from '../model/Lecturer'
 // TO REFACTOR L8R
 async function queryHSGAPI(secTok, appId, semId) {
     // build query URL
@@ -34,6 +35,17 @@ function buildCourseObj(course) {
         description: course.CourseContent
     }
 }
+function buildLecturerObj(course) {
+  const primCourse = course.Courses[0]
+  return primCourse.Lecturers.map(function(lecturer){
+    return {
+      hsgEntityId: lecturer.HsgEntityId,
+      firstName: lecturer.FirstName,
+      lastName: lecturer.LastName,
+    }
+
+  })
+}
 
 async function saveCourse(courses) {
     const courseIds = courses.map(item => item.hsgId)
@@ -53,6 +65,23 @@ async function saveCourse(courses) {
     )
 }
 
+async function saveLecturers(lecturers) {
+  const lecturerIds = lecturers.map(item => item.hsgEntityId)
+  let existingLecturers = await Lecturer
+      .find({ hsgEntityId: { $in: lecturerIds } }, 'hsgEntityId')
+      .lean()
+      .exec()
+
+    existingLecturers = existingLecturers.map(item => item.hsgEntityId)
+
+    const newLecturers = lecturers.filter(item => !existingLecturers.includes(item.hsgEntityId))
+
+    return await Promise.all(
+      newLecturers.map((lecturer) => {
+        return Lecturer.create(lecturer);
+      })
+    )
+}
 async function saveStudent(email) {
     await Student.findOne({ email: email }, async (err, res) => {
         if (err) { throw new Error(error) }
@@ -78,6 +107,18 @@ function parseCourses(courseData) {
     return courses
 }
 
+function parseLecturers(courseData) {
+  let lecturers = courseData.Data.Items
+        .map((course) => buildLecturerObj(course))
+  lecturers = lecturers.reduce((acc, item) => {
+    item.forEach((lecturer) => {
+      acc.push(lecturer)
+    })
+    return acc
+  }, [])
+    console.log(lecturers)
+    return lecturers
+}
 
 //********* MAIN **************************
 async function dashController(req, res) {
@@ -89,7 +130,9 @@ async function dashController(req, res) {
     const courseData = await queryHSGAPI(secTok, appId, semId)
 
     const courses = parseCourses(courseData)
+    const lecturers = parseLecturers(courseData)
     await saveCourse(courses)
+    await saveLecturers(lecturers)
     await saveStudent(email)
     await associateWithStudent(courses, email)
     res.send(courses)
